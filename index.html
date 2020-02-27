@@ -1,8 +1,13 @@
 <style>
+  a {
+    color: #00DCFF;
+  }
+
   body {
     font-family: 'Titillium Web';
     color: #00DCFF;
-    background-color: #020021;
+    background-color: #000C0D;
+    ;
     background-image: url(background-large.jpg);
     /* background-color: rgb(7, 35, 51);  */
   }
@@ -204,8 +209,8 @@
     font-weight: bold;
   }
 
-  .div-number-4 select,
-  .div-number-7 select {
+  .div-number-5 select,
+  .div-number-2 select {
     margin-top: 16px;
   }
 
@@ -219,6 +224,16 @@
 
   .div-number-10 {
     position: relative;
+  }
+
+  .div-number-11{
+    position: absolute;
+    bottom:10px;
+  }
+
+  .div-number-11 td{
+    font-size:11px;
+    line-height:10px;
   }
 
   button {
@@ -237,15 +252,21 @@
     color: #00DEFF;
     margin-top: 20px;
     outline: none;
+  }
 
+  .div-number-13{
+    position:absolute;
+    bottom:-5px;
+    right:15px;
   }
 </style>
 
+<script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css">
 <link href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap" rel="stylesheet">
 
-<div class="background">
 
-</div>
+
 <div class="notebook-content">
 
 </div>
@@ -267,3 +288,7 @@
 
 
 </script>
+
+<applause-button url="https://bumbeishvili.github.io/project/coronavirus"
+style="width: 58px; height: 58px;position:fixed;bottom:40px;right:20px;z-index:999" />
+
