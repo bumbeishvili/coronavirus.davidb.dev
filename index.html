@@ -1,9 +1,14 @@
 <style>
   body {
-    font-family: 'Roboto';
-    color: white;
-    background: url(b.jpg);
+    font-family: 'Titillium Web';
+    color: #00DCFF;
+    background-color: #020021;
+    background-image: url(background-large.jpg);
     /* background-color: rgb(7, 35, 51);  */
+  }
+
+  .notebook-content {
+    background-image: url(glow.png);
   }
 
   .observablehq--inspect {
@@ -42,9 +47,9 @@
     width: 2em;
     height: 2em;
     margin-top: 0;
-    background-color: #16a085;
+    background-color: #000707;
     border-radius: 1em;
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 2px solid #00DEFF;
     cursor: pointer;
   }
 
@@ -52,9 +57,9 @@
     width: 2em;
     height: 2em;
     margin-top: 0;
-    background-color: #16a085;
+    background-color: #00DEFF;
     border-radius: 1em;
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 2px solid #00DEFF;
     cursor: pointer;
   }
 
@@ -62,22 +67,22 @@
     width: 2em;
     height: 2em;
     margin-top: 0;
-    background-color: #16a085;
+    background-color: #00DEFF;
     border-radius: 1em;
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 2px solid #00DEFF;
     cursor: pointer;
   }
 
   input[type=range]:hover::-webkit-slider-thumb {
-    border-color: rgba(255, 255, 255, 0.7);
+    border-color: #00DEFF;
   }
 
   input[type=range]:hover::-moz-range-thumb {
-    border-color: rgba(255, 255, 255, 0.7);
+    border-color: #00DEFF;
   }
 
   input[type=range]:hover::-ms-thumb {
-    border-color: rgba(255, 255, 255, 0.7);
+    border-color: #00DEFF;
   }
 
   input[type=range]:active::-webkit-slider-thumb {
@@ -96,7 +101,7 @@
     width: 100%;
     cursor: pointer;
     height: 1em;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+    border-bottom: 2px solid #00DEFF;
     background-color: transparent;
   }
 
@@ -104,7 +109,7 @@
     width: 100%;
     cursor: pointer;
     height: 1em;
-    border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+    border-bottom: 2px solid #00DEFF;
     background-color: transparent;
   }
 
@@ -123,18 +128,124 @@
   border-radius: 1.3px;
   border: 0.2px solid #010101; */
 
-    border-bottom: 2px solid #00A586;
+    border-bottom: 2px solid #00DEFF;
   }
 
   input[type=range]::-moz-range-track {
 
-    border-bottom: 2px solid #00A586;
+    border-bottom: 2px solid #00DEFF;
     margin-top: 5px;
+  }
+
+  select {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    height: 28px;
+    width: 105px;
+    background: #f2f2f2;
+    border: 1px solid;
+    border-color: white #f7f7f7 whitesmoke;
+    border-radius: 3px;
+    background-image: -webkit-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+    background-image: -moz-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+    background-image: -o-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+    background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.06));
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    background-color: rgba(1, 1, 1, 0);
+    border: 1px solid #00DEFF;
+    color: #00DEFF;
+  }
+
+
+  /** POSITIONING STYLES */
+
+  .div-number-0,
+  .div-number-1 {
+    display: inline-block;
+  }
+
+
+
+  .div-number-2,
+  .div-number-3,
+  .div-number-4,
+  .div-number-5,
+  .div-number-6,
+  .div-number-7 {
+    margin: 5px;
+    padding-top: 15px;
+    float: right;
+  }
+
+  .div-number-2 select,
+  .div-number-5 select {
+    margin-top: 10px;
+  }
+
+
+
+
+  .div-number-8 {
+    width: 100%;
+  }
+
+  .div-number-8 label {
+    width: 100%;
+  }
+
+  .div-number-8 input {
+    width: 85% !important;
+  }
+
+  .div-number-8 output {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .div-number-4 select,
+  .div-number-7 select {
+    margin-top: 16px;
+  }
+
+  .div-number-0 h1 {
+    margin-bottom: 10px;
+  }
+
+  .div-number-1 h4 {
+    margin-top: 10px;
+  }
+
+  .div-number-10 {
+    position: relative;
+  }
+
+  button {
+    /* Green */
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgba(1, 1, 1, 0);
+    border: 1px solid #00DEFF;
+    color: #00DEFF;
+    margin-top: 20px;
+    outline: none;
+
   }
 </style>
 
-<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Titillium+Web&display=swap" rel="stylesheet">
 
+<div class="background">
+
+</div>
 <div class="notebook-content">
 
 </div>
