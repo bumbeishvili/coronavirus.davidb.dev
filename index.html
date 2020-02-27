@@ -226,14 +226,14 @@
     position: relative;
   }
 
-  .div-number-11{
+  .div-number-11 {
     position: absolute;
-    bottom:10px;
+    bottom: 10px;
   }
 
-  .div-number-11 td{
-    font-size:11px;
-    line-height:10px;
+  .div-number-11 td {
+    font-size: 11px;
+    line-height: 10px;
   }
 
   button {
@@ -254,10 +254,10 @@
     outline: none;
   }
 
-  .div-number-13{
-    position:absolute;
-    bottom:-5px;
-    right:15px;
+  .div-number-13 {
+    position: absolute;
+    bottom: -5px;
+    right: 15px;
   }
 </style>
 
@@ -277,7 +277,7 @@
 
   document.querySelector('.notebook-content').innerHTML = notebook.modules[0].variables
     .filter(d => d)
-    .map((d, i) => ` <div class=" observable-wrapper div-number-${i}"></div>`)
+    .map((d, i) => ` <div ${i>13?'style="display:none"':''} class=" observable-wrapper div-number-${i}"></div>`)
     .join('');
 
   import { Inspector, Runtime } from "/runtime.js";
@@ -290,5 +290,4 @@
 </script>
 
 <applause-button url="https://bumbeishvili.github.io/project/coronavirus"
-style="width: 58px; height: 58px;position:fixed;bottom:40px;right:20px;z-index:999" />
-
+  style="width: 58px; height: 58px;position:fixed;bottom:40px;right:20px;z-index:999" />
