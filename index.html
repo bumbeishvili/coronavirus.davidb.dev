@@ -293,12 +293,19 @@
   .total-stat .value {
     text-align: center;
   }
+
   .total-stat .title {
     text-align: center;
   }
 
   .first-stat {
     margin-left: 20px;
+  }
+
+  .share-button-wrapper {
+    position: fixed;
+    right: 19px;
+    bottom: 127px;
   }
 </style>
 
@@ -329,6 +336,29 @@
 
 
 </script>
+<div class='share-button-wrapper'>
+  <a class="twitter-share-button" style="right:10px;position:absolute;bottom:60px"
+    href="https://twitter.com/intent/tweet?text=Check%20out%20corona%20virus%20spread%0D%0A#covid19%20#coronavirus%0D%0A%0D%0AData%20is%20updated%20daily%0D%0A">
+    Tweet
+  </a>
+</div>
 
 <applause-button url="https://bumbeishvili.github.io/project/coronavirus"
   style="width: 58px; height: 58px;position:fixed;bottom:40px;right:20px;z-index:999" />
+
+<script>window.twttr = (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function (f) {
+      t._e.push(f);
+    };
+
+    return t;
+  }(document, "script", "twitter-wjs"));</script>
