@@ -210,6 +210,7 @@
 
   .div-number-8 {
     width: 100%;
+    margin-left: 11px;
   }
 
   .div-number-8 form {
@@ -282,12 +283,13 @@
   }
 
   .total-stat {
-    width: 120px;
+    width: 180px;
     padding: 5px;
     display: inline-block;
     border: 0.5px solid #00DEFF;
     border-radius: 4px;
     margin-left: 10px;
+    margin-top: 20px;
   }
 
   .total-stat .value {
@@ -298,9 +300,7 @@
     text-align: center;
   }
 
-  .first-stat {
-    margin-left: 20px;
-  }
+
 
   .share-button-wrapper {
     position: fixed;
@@ -308,7 +308,7 @@
     bottom: 127px;
   }
 
-  @media only screen and (max-width: 1415px) {
+  @media only screen and (max-width: 1420px) {
     .div-number-0 {
       text-align: center;
       display: block;
@@ -332,7 +332,7 @@
     }
 
     .div-number-1 .total-stat {
-      margin-bottom: 20px;
+      margin-bottom: -5px;
       text-align: center;
     }
 
@@ -351,7 +351,7 @@
     }
 
     .div-number-8 label input {
-      width: 65% !important;
+      width: 80% !important;
     }
 
     .div-number-8 output {
@@ -359,9 +359,18 @@
       font-weight: bold;
       margin-top: 12px;
     }
+  }
 
+  @media only screen and (max-width: 1010px) {
+    .div-number-8 label input {
+      width: 75% !important;
+    }
+  }
 
-
+  @media only screen and (max-width: 700px) {
+    .div-number-8 label input {
+      width: 65% !important;
+    }
   }
 </style>
 
