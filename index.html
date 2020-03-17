@@ -406,6 +406,12 @@
     bottom: 127px;
   }
 
+  .fb-share-button-wrapper{
+    position: fixed;
+    right: 19px;
+    bottom: 157px;
+  }
+
   @media only screen and (max-width: 1420px) {
     .div-number-0 {
       text-align: center;
@@ -487,9 +493,10 @@
 
 
 
-<div class="notebook-content">
-
-</div>
+<div class="notebook-content"></div>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous"
+  src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=598372137026804"></script>
 
 <script type="module">
 
@@ -508,6 +515,12 @@
 
 
 </script>
+<div class="fb-share-button-wrapper">
+  <div class="fb-share-button" data-href="https://coronavirus.davidb.dev/" data-layout="button_count" data-size="small">
+    <a target="_blank"
+      href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcoronavirus.davidb.dev%2F&amp;src=sdkpreparse"
+      class="fb-xfbml-parse-ignore">Share</a></div>
+</div>
 <div class='share-button-wrapper'>
   <a class="twitter-share-button" style="right:10px;position:absolute;bottom:60px"
     href="https://twitter.com/intent/tweet?text=Check%20out%20corona%20virus%20spread%0D%0A#covid19%20#coronavirus%0D%0A%0D%0AData%20is%20updated%20daily%0D%0A">
