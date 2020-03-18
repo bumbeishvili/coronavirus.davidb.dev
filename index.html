@@ -183,6 +183,7 @@
   }
 
   body {
+    overflow-x: hidden;
     font-family: 'Titillium Web';
     color: #65A4B6;
     background-color: #000C0D;
@@ -570,6 +571,10 @@
   }
 
   @media only screen and (max-width: 700px) {
+    body {
+      overflow-x: scroll;
+    }
+
     .div-number-8 label input {
       width: 65% !important;
     }
