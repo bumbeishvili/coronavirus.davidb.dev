@@ -9,7 +9,8 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Corona Virus Spread" />
 <meta property="og:description" content="Daily data update" />
-<meta property="og:image" content="https://raw.githubusercontent.com/bumbeishvili/Assets/master/Other/Screen%20Shot%202020-03-17%20at%2020.20.43.png" />
+<meta property="og:image"
+  content="https://raw.githubusercontent.com/bumbeishvili/Assets/master/Other/Screen%20Shot%202020-03-17%20at%2020.20.43.png" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/black/pace-theme-big-counter.min.css" rel="stylesheet" /> -->
 
@@ -108,19 +109,19 @@
 
 
   a {
-    color: #00DCFF;
+    color: #65A4B6;
   }
 
   body {
     font-family: 'Titillium Web';
-    color: #00DCFF;
+    color: #65A4B6;
     background-color: #000C0D;
     margin: 0px;
     padding-left: 10px;
     padding-right: 10px;
-    ;
-    background-image: url(background-large.jpg);
-    background-color: rgb(7, 35, 51);
+
+    /* background-image: url(background-large.jpg); */
+    background-color: #080F1E;
   }
 
   .notebook-content {
@@ -165,7 +166,7 @@
     margin-top: 0;
     background-color: #000707;
     border-radius: 1em;
-    border: 2px solid #00DEFF;
+    border: 2px solid #37A6BD;
     cursor: pointer;
   }
 
@@ -173,9 +174,9 @@
     width: 2em;
     height: 2em;
     margin-top: 0;
-    background-color: #00DEFF;
+    background-color: #37A6BD;
     border-radius: 1em;
-    border: 2px solid #00DEFF;
+    border: 2px solid #37A6BD;
     cursor: pointer;
   }
 
@@ -183,22 +184,22 @@
     width: 2em;
     height: 2em;
     margin-top: 0;
-    background-color: #00DEFF;
+    background-color: #37A6BD;
     border-radius: 1em;
-    border: 2px solid #00DEFF;
+    border: 2px solid #37A6BD;
     cursor: pointer;
   }
 
   input[type=range]:hover::-webkit-slider-thumb {
-    border-color: #00DEFF;
+    border-color: #37A6BD;
   }
 
   input[type=range]:hover::-moz-range-thumb {
-    border-color: #00DEFF;
+    border-color: #37A6BD;
   }
 
   input[type=range]:hover::-ms-thumb {
-    border-color: #00DEFF;
+    border-color: #37A6BD;
   }
 
   input[type=range]:active::-webkit-slider-thumb {
@@ -217,7 +218,7 @@
     width: 100%;
     cursor: pointer;
     height: 1em;
-    border-bottom: 2px solid #00DEFF;
+    border-bottom: 2px solid #37A6BD;
     background-color: transparent;
   }
 
@@ -225,7 +226,7 @@
     width: 100%;
     cursor: pointer;
     height: 1em;
-    border-bottom: 2px solid #00DEFF;
+    border-bottom: 2px solid #37A6BD;
     background-color: transparent;
   }
 
@@ -244,12 +245,12 @@
   border-radius: 1.3px;
   border: 0.2px solid #010101; */
 
-    border-bottom: 2px solid #00DEFF;
+    border-bottom: 2px solid #37A6BD;
   }
 
   input[type=range]::-moz-range-track {
 
-    border-bottom: 2px solid #00DEFF;
+    border-bottom: 2px solid #37A6BD;
     margin-top: 5px;
   }
 
@@ -270,8 +271,8 @@
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
     background-color: rgba(1, 1, 1, 0);
-    border: 1px solid #00DEFF;
-    color: #00DEFF;
+    border: 1px solid #37A6BD;
+    color: #37A6BD;
   }
 
 
@@ -343,6 +344,8 @@
   }
 
   .div-number-11 {
+    border-radius: 6px;
+    background-color: rgba(41, 50, 61, 0.5);
     position: fixed;
     bottom: 10px;
     pointer-events: none;
@@ -365,8 +368,8 @@
     margin: 4px 2px;
     cursor: pointer;
     background-color: rgba(1, 1, 1, 0);
-    border: 1px solid #00DEFF;
-    color: #00DEFF;
+    border: 1px solid #37A6BD;
+    color: #37A6BD;
     margin-top: 20px;
     outline: none;
   }
@@ -378,26 +381,46 @@
   }
 
   .total-stat {
+    cursor: pointer;
     background-color: #1A2032;
     width: 140px;
     padding: 5px;
     display: inline-block;
-    border: 0.5px solid #00DEFF;
+    border: 0.5px solid #37A6BD;
     border-radius: 4px;
     margin-left: 10px;
     margin-top: 20px;
-    font-size:13px;
+    font-size: 13px;
   }
 
   .total-stat .value {
     text-align: center;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: bold;
+  }
+
+  .total-stat.selected .value {
+    font-size: 30px;
   }
 
   .total-stat .title {
     text-align: center;
   }
+
+  .total-stat:hover {
+    border: 0.5px solid blue;
+  }
+
+  .total-stat.selected {
+    color: #00E3FF;
+    border: 5px solid #C30E1D;
+  }
+
+  .total-stat.selected svg rect {
+    fill: #00E3FF;
+    stroke: #00E3FF;
+  }
+
 
 
 
@@ -407,7 +430,7 @@
     bottom: 127px;
   }
 
-  .fb-share-button-wrapper{
+  .fb-share-button-wrapper {
     position: fixed;
     right: 19px;
     bottom: 157px;
@@ -485,6 +508,16 @@
     .total-stat {
       width: calc(100% - 30px) !important;
     }
+  }
+
+  .style-root {
+    fill: #37A6BD !important;
+    stroke: #37A6BD !important;
+    color: #37A6BD !important;
+  }
+
+  .style-root .count{
+    color: #37A6BD !important;
   }
 </style>
 
