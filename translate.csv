@@ -1,4 +1,6 @@
 en,ge,tr,fr,de,pt,nl,es,it
+rank,პოზიცია,rütbe,rang,Rang,classificação,rang,rango,rango
+venezuela,ვენესუელა,venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela
 help with translation,თარგმნაში დახმარება,çeviri ile yardım,aide à la traduction,Hilfe bei der Übersetzung,ajuda com tradução,hulp bij het vertalen,ayuda con la traducción,assistenza di un traduttore
 from yesterday,სხვაობა წინა დღესთან,dünden,d'hier,von gestern,de ontem,van gisteren,de ayer,da ieri
 yesterday,წინა დღის,dün,hier,gestern,ontem,gisteren,ayer,ieri
@@ -16,15 +18,15 @@ world,მსოფლიო,Dünya,monde,Welt,mundo,wereld,mundo,mondo
 europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa
 asia,აზია,Asya,Asie,Asien,Ásia,Azië,Asia,Asia
 africa,აფრიკა,Afrika,Afrique,Afrika,África,Afrika,África,Africa
-in the,&nbsp;,içinde,dans le,in dem,no,in de,en el,nel
+in the,,,,,,,,
 north america,ჩრდ. ამერიკა,Kuzey Amerika,Amérique du Nord,Nordamerika,América do Norte,Noord Amerika,Norteamérica,Nord America
 south america,სამხ. ამერიკა,Güney Amerika,Amérique du Sud,Südamerika,América do Sul,Zuid-Amerika,Sudamerica,Sud America
 australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia
-new deaths,ახალი გარდაცვალებები,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe sterfgevallen,nuevas muertes,nuovi decessi
-new fatalities,ახალი გარდაცვალებები,yeni ölümlerin,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,nuevas víctimas mortales,nuovi decessi
+new deaths,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe sterfgevallen,nuevas muertes,nuovi decessi
+new fatalities,ახალი მსხვერპლი,yeni ölümlerin,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,nuevas víctimas mortales,nuovi decessi
 total fatalities,გარდაცვლილთა რაოდ.,toplam can kaybı,nombre total de décès,insgesamt Todesfälle,fatalidades totais,totaal doden,el total de muertes,incidenti mortali totali
 total recovered,გამოჯანმრთელდა,toplam geri,totale récupérée,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato
-deaths rates (%),სიკვდილიანობა (%),ölüm oranları (%),les taux de décès (%),Todesfälle Raten (%),as taxas de mortalidade (%),sterfgevallen tarieven (%),las tasas de muertes (%),morti tassi (%)
+death rates (%),სიკვდილიანობა (%),ölüm oranları (%),taux de mortalité (%),Todesraten (%),as taxas de mortalidade (%),sterftecijfers (%),las tasas de mortalidad (%),i tassi di mortalità (%)
 fatality rate (%),სიკვდილიანობა (%),Ölüm oranı (%),taux de mortalité (%),Sterblichkeitsrate (%),índice de fatalidade (%),sterftecijfer (%),tasa de fatalidad (%),tasso di mortalità (%)
 active cases,აქტიური შემთხვ.,aktif vakaları,cas actifs,aktive Fälle,casos ativos,actieve zaken,casos activos,casi attivi
 existing cases,აქტიური შემთხვ.,varolan vakalar,les cas existants,Altfälle,casos existentes,bestaande gevallen,casos existentes,casi esistenti
@@ -46,7 +48,7 @@ Australia,ავსტრალია,Avustralya,Australie,Australien,Austrália
 Austria,ავსტრია,Avusturya,L'Autriche,Österreich,Áustria,Oostenrijk,Austria,Austria
 Azerbaijan,აზერბაიჯანი,Azerbeycan,Azerbaïdjan,Aserbaidschan,Azerbaijão,Azerbeidzjan,Azerbaiyán,Azerbaijan
 Bahrain,ბაჰრეინი,Bahreyn,Bahreïn,Bahrein,Bahrain,Bahrein,Bahrein,Bahrain
-Bangladesh,ბანგლადეში,Bangladeş,Bangladesh,Bangladesch,Bangladesh,Bangladesh,Bangladesh,Bangladesh
+Bangladesh,ბანგლადეში,Bangladeş,,Bangladesch,Bangladesh,Bangladesh,Bangladesh,Bangladesh
 Belarus,ბელორუსია,Belarus,Biélorussie,Weißrussland,Belarus,Wit-Rusland,Bielorrusia,Bielorussia
 Belgium,ბელგია,Belçika,Belgique,Belgien,Bélgica,België,Bélgica,Belgio
 Bhutan,ბუტანის,Butan,Bhoutan,Bhutan,Butão,Bhutan,Bután,Bhutan
@@ -218,3 +220,12 @@ Namibia,ნამიბია,Namibya,Namibie,Namibia,Namíbia,Namibië,Namibia,
 Central African Republic,ცენტ. აფრ. რესპ.,Orta Afrika Cumhuriyeti,République centrafricaine,Zentralafrikanische Republik,República Centro-Africano,Centraal Afrikaanse Republiek,República Centroafricana,Repubblica Centrafricana
 Ghana,განა,Gana,Ghana,Ghana,Gana,Ghana,Ghana,Ghana
 Mauritania,მავრიტანია,Moritanya,Mauritanie,Mauretanien,Mauritânia,Mauritanië,Mauritania,Mauritania
+Kosovo,კოსოვო,Kosova,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo
+rwanda,რუანდა,ruanda,Rwanda,rwanda,Ruanda,Rwanda,Ruanda,Ruanda
+guatemala,გვატემალა,guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala
+uzbekistan,უზბეკეთი,Özbekistan,Uzbekistan,Usbekistan,Uzbequistão,Oezbekistan,Uzbekistán,Uzbekistan
+barbados,ბარბადოსი,barbados,barbade,Barbados,barbados,Barbados,barbados,barbados
+martinique,მარტინიკე,martinique,Martinique,Martinique,martinica,martinique,Martinica,MARTINICA
+seychelles,სეიშელი,seyşeller,les Seychelles,seychelles,seychelles,Seychellen,seychelles,Seychelles
+trinidad and tobago,ტრინიდადი და ტობაგო,Trinidad ve Tobago,Trinité-et-Tobago,Trinidad und Tobago,Trinidad e Tobago,Trinidad en Tobago,Trinidad y Tobago,Trinidad e Tobago
+the gambia,გამბია,Gambiya,gambie,die gambia,Gâmbia,Gambia,Gambia,Gambia
