@@ -376,8 +376,9 @@
 
 
   .div-number-8 {
-    width: calc(100% - 30px) !important;
-    margin-left: 11px;
+    width: calc(100% - 380px) !important;
+    margin-left: 350px;
+
   }
 
   .div-number-8 form {
@@ -422,8 +423,16 @@
     border-radius: 6px;
     background-color: rgba(41, 50, 61, 0.5);
     position: fixed;
-    bottom: 10px;
-    pointer-events: none;
+    top: 170px;
+    left: 23px;
+    height: calc(100vh - 190px);
+    overflow-y: scroll;
+    padding-bottom: 5px;
+    /* pointer-events: none; */
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
   }
 
   .div-number-11 td {
