@@ -5,7 +5,7 @@ help with translation,თარგმნაში დახმარება,ç
 from yesterday,სხვაობა წინა დღესთან,dünden,d'hier,von gestern,de ontem,van gisteren,de ayer,da ieri,从昨天
 yesterday,წინა დღის,dün,hier,gestern,ontem,gisteren,ayer,ieri,昨天
 Pause,პაუზა,Duraklat,Pause,Pause,Pausa,Pauze,Pausa,Pausa,暂停
-Play,დრო,Oyna,Jouer,abspielen,Toque,Speel,Jugar,Giocare,玩
+play,დრო,zaman,temps,Zeit,Tempo,tijd,hora,tempo,时间
 cases,ყველა შემთხვ.,vakalar,cas,Fälle,casos,gevallen,casos,casi,例
 deaths,გარდაიცვალა,ölümler,des morts,Todesfälle,mortes,sterfgevallen,muertes,morti,死亡
 recovered,გამოჯანმრთელდა,geri kazanılan,rétabli,zurückgewonnen,recuperado,hersteld,recuperado,recuperato,恢复
@@ -56,7 +56,7 @@ Australia,ავსტრალია,Avustralya,Australie,Australien,Austrália
 Austria,ავსტრია,Avusturya,L'Autriche,Österreich,Áustria,Oostenrijk,Austria,Austria,奥地利
 Azerbaijan,აზერბაიჯანი,Azerbeycan,Azerbaïdjan,Aserbaidschan,Azerbaijão,Azerbeidzjan,Azerbaiyán,Azerbaijan,阿塞拜疆
 Bahrain,ბაჰრეინი,Bahreyn,Bahreïn,Bahrein,Bahrain,Bahrein,Bahrein,Bahrain,巴林
-Bangladesh,ბანგლადეში,Bangladeş,Bangladesh,Bangladesch,Bangladesh,Bangladesh,Bangladesh,Bangladesh,孟加拉国
+Bangladesh,ბანგლადეში,Bangladeş,,Bangladesch,Bangladesh,Bangladesh,Bangladesh,Bangladesh,孟加拉国
 Belarus,ბელორუსია,Belarus,Biélorussie,Weißrussland,Belarus,Wit-Rusland,Bielorrusia,Bielorussia,白俄罗斯
 Belgium,ბელგია,Belçika,Belgique,Belgien,Bélgica,België,Bélgica,Belgio,比利时
 Bhutan,ბუტანის,Butan,Bhoutan,Bhutan,Butão,Bhutan,Bután,Bhutan,不丹
@@ -101,7 +101,7 @@ Hungary,უნგრეთი,Macaristan,Hongrie,Ungarn,Hungria,Hongarije,Hungr�
 Iceland,ისლანდია,İzlanda,Islande,Island,Islândia,IJsland,Islandia,Islanda,冰岛
 India,ინდოეთი,Hindistan,Inde,Indien,Índia,Indië,India,India,印度
 Indonesia,ინდონეზია,Endonezya,Indonésie,Indonesien,Indonésia,Indonesië,Indonesia,Indonesia,印度尼西亚
-Iran,ირანი,İran,J'ai couru,Ich rannte,Eu corri,Ik rende,Corrí,Mi sono imbattuto,伊朗
+Iran,ირანი,İran,Iran,Iran,Iran,Iran,Iran,Iran,伊朗
 Iraq,ერაყი,Irak,Irak,Irak,Iraque,Irak,Irak,Iraq,伊拉克
 Ireland,ირლანდია,İrlanda,Irlande,Irland,Irlanda,Ierland,Irlanda,Irlanda,爱尔兰
 Israel,ისრაელი,İsrail,Israël,Israel,Israel,Israël,Israel,Israele,以色列
