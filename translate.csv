@@ -1,231 +1,239 @@
-en,ge,tr,fr,de,pt,nl,es,it
-rank,პოზიცია,rütbe,rang,Rang,classificação,rang,rango,rango
-venezuela,ვენესუელა,venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela
-help with translation,თარგმნაში დახმარება,çeviri ile yardım,aide à la traduction,Hilfe bei der Übersetzung,ajuda com tradução,hulp bij het vertalen,ayuda con la traducción,assistenza di un traduttore
-from yesterday,სხვაობა წინა დღესთან,dünden,d'hier,von gestern,de ontem,van gisteren,de ayer,da ieri
-yesterday,წინა დღის,dün,hier,gestern,ontem,gisteren,ayer,ieri
-Pause,პაუზა,Duraklat,Pause,Pause,Pausa,Pauze,Pausa,Pausa
-Play,დრო,Oyna,Jouer,abspielen,Toque,Speel,Jugar,Giocare
-cases,ყველა შემთხვ.,vakalar,cas,Fälle,casos,gevallen,casos,casi
-deaths,გარდაიცვალა,ölümler,des morts,Todesfälle,mortes,sterfgevallen,muertes,morti
-recovered,გამოჯანმრთელდა,geri kazanılan,rétabli,zurückgewonnen,recuperado,hersteld,recuperado,recuperato
-death rate,სიკვდილიანობა,ölüm oranı,taux de mortalité,Todesrate,índice de mortalidade,sterftecijfer,índice de mortalidad,tasso di mortalità
-corona virus,კორონა ვირუსი,korona virüsü,virus corona,Coronavirus,vírus corona,coronavirus,virus de la corona,corona virus
-diff from,სხვაობა,dan fark,diff de,diff aus,diff de,diff van,diff,diff da
-diff,სხვაობა,diff,diff,diff,diff,diff,diff,diff
-top,top,üst,Haut,oben,topo,top,parte superior,superiore
-world,მსოფლიო,Dünya,monde,Welt,mundo,wereld,mundo,mondo
-europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa
-asia,აზია,Asya,Asie,Asien,Ásia,Azië,Asia,Asia
-africa,აფრიკა,Afrika,Afrique,Afrika,África,Afrika,África,Africa
-in the,,,,,,,,
-north america,ჩრდ. ამერიკა,Kuzey Amerika,Amérique du Nord,Nordamerika,América do Norte,Noord Amerika,Norteamérica,Nord America
-south america,სამხ. ამერიკა,Güney Amerika,Amérique du Sud,Südamerika,América do Sul,Zuid-Amerika,Sudamerica,Sud America
-australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia
-new deaths,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe sterfgevallen,nuevas muertes,nuovi decessi
-new fatalities,ახალი მსხვერპლი,yeni ölümlerin,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,nuevas víctimas mortales,nuovi decessi
-total fatalities,გარდაცვლილთა რაოდ.,toplam can kaybı,nombre total de décès,insgesamt Todesfälle,fatalidades totais,totaal doden,el total de muertes,incidenti mortali totali
-total recovered,გამოჯანმრთელდა,toplam geri,totale récupérée,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato
-death rates (%),სიკვდილიანობა (%),ölüm oranları (%),taux de mortalité (%),Todesraten (%),as taxas de mortalidade (%),sterftecijfers (%),las tasas de mortalidad (%),i tassi di mortalità (%)
-fatality rate (%),სიკვდილიანობა (%),Ölüm oranı (%),taux de mortalité (%),Sterblichkeitsrate (%),índice de fatalidade (%),sterftecijfer (%),tasa de fatalidad (%),tasso di mortalità (%)
-active cases,აქტიური შემთხვ.,aktif vakaları,cas actifs,aktive Fälle,casos ativos,actieve zaken,casos activos,casi attivi
-existing cases,აქტიური შემთხვ.,varolan vakalar,les cas existants,Altfälle,casos existentes,bestaande gevallen,casos existentes,casi esistenti
-new cases,ახალი შემთხვ.,yeni vaka,nouveaux cas,Neuerkrankungen,novos casos,nieuwe gevallen,nuevos casos,nuovi casi
-total cases,ყველა შემთხვ.,toplam vaka,Le total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali
-januar,იანვარი,januar,januar,januar,januar,januar,de Enero,gennaio
-februar,თებერვალი,februar,februar,februar,februar,februar,de Febrero,febbraio
-march,მარტი,Mart,Mars,März,marcha,maart,marzo,marzo
-April,აპრილი,Nisan,avril,April,abril,april,abril,aprile
-Afghanistan,ავღანეთი,Afganistan,Afghanistan,Afghanistan,Afeganistão,Afghanistan,Afganistán,afghanistan
-Albania,ალბანეთი,Arnavutluk,Albanie,Albanien,Albânia,Albanië,Albania,Albania
-Algeria,ალჯირი,Cezayir,Algérie,Algerien,Argélia,Algerije,Argelia,algeria
-Andorra,ანდორა,Andorra,Andorre,Andorra,Andorra,Andorra,Andorra,Andorra
-Antigua and Barbuda,ანტიგუა და ბარბუდა,Antigua ve Barbuda,Antigua-et-Barbuda,Antigua und Barbuda,Antígua e Barbuda,Antigua en Barbuda,Antigua y Barbuda,Antigua e Barbuda
-Argentina,არგენტინა,Arjantin,Argentine,Argentinien,Argentina,Argentinië,Argentina,Argentina
-Armenia,სომხეთი,Ermenistan,Arménie,Armenien,Armênia,Armenië,Armenia,Armenia
-Aruba,არუბა,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,aruba
-Australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia
-Austria,ავსტრია,Avusturya,L'Autriche,Österreich,Áustria,Oostenrijk,Austria,Austria
-Azerbaijan,აზერბაიჯანი,Azerbeycan,Azerbaïdjan,Aserbaidschan,Azerbaijão,Azerbeidzjan,Azerbaiyán,Azerbaijan
-Bahrain,ბაჰრეინი,Bahreyn,Bahreïn,Bahrein,Bahrain,Bahrein,Bahrein,Bahrain
-Bangladesh,ბანგლადეში,Bangladeş,,Bangladesch,Bangladesh,Bangladesh,Bangladesh,Bangladesh
-Belarus,ბელორუსია,Belarus,Biélorussie,Weißrussland,Belarus,Wit-Rusland,Bielorrusia,Bielorussia
-Belgium,ბელგია,Belçika,Belgique,Belgien,Bélgica,België,Bélgica,Belgio
-Bhutan,ბუტანის,Butan,Bhoutan,Bhutan,Butão,Bhutan,Bután,Bhutan
-Bolivia,ბოლივიის,Bolivya,Bolivie,Bolivien,Bolívia,Bolivia,Bolivia,Bolivia
-Bosnia and Herzegovina,ბოსნია და ჰერცოგოვინა,Bosna Hersek,Bosnie Herzégovine,Bosnien und Herzegowina,Bósnia e Herzegovina,Bosnië-Herzegovina,Bosnia y Herzegovina,Bosnia Erzegovina
-Brazil,ბრაზილია,Brezilya,Brésil,Brasilien,Brasil,Brazilië,Brasil,Brasile
-Brunei,ბრუნეი,Brunei,Brunei,Brunei,Brunei,Brunei,Brunei,Brunei
-Bulgaria,ბულგარეთი,Bulgaristan,Bulgarie,Bulgarien,Bulgária,Bulgarije,Bulgaria,Bulgaria
-Burkina Faso,ბურკინა ფასო,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso
-Cambodia,კამბოჯა,Kamboçya,Cambodge,Kambodscha,Camboja,Cambodja,Camboya,Cambogia
-Cameroon,კამერუნი,Kamerun,Cameroun,Kamerun,Camarões,Kameroen,Camerún,Camerun
-Canada,კანადა,Kanada,Canada,Kanada,Canadá,Canada,Canadá,Canada
-Cayman Islands,კაიმანის კუნძულები,Cayman Adaları,Îles Caïmans,Cayman Inseln,Ilhas Cayman,Kaaiman Eilanden,Islas Caimán,Isole Cayman
-Chile,ჩილე,Şili,Chili,Chile,Chile,Chili,Chile,Chile
-China,ჩინეთი,Çin,Chine,China,China,China,China,Cina
-Colombia,კოლუმბია,Kolombiya,Colombie,Kolumbien,Colômbia,Colombia,Colombia,Colombia
-Congo,კონგო,Kongo,Congo,Kongo,Congo,Congo,Congo,Congo
-Costa Rica,კოსტა - რიკა,Kostarika,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica
-Cote d'Ivoire,კოტ დივუარი,Fildişi Sahili,Côte d'Ivoire,Cote d'Ivoire,Cote d'Ivoire,Cote d'Ivoire,Costa de Marfil,Costa d'Avorio
-Croatia,ხორვატია,Hırvatistan,Croatie,Kroatien,Croácia,Kroatië,Croacia,Croazia
-Cuba,კუბა,Küba,Cuba,Kuba,Cuba,Cuba,Cuba,Cuba
-Cyprus,კვიპროსი,Kıbrıs,Chypre,Zypern,Chipre,Cyprus,Chipre,Cipro
-Czech Republic,ჩეხეთის რესპუბლიკა,Çek Cumhuriyeti,République Tchèque,Tschechische Republik,República Checa,Tsjechië,Republica checa,Repubblica Ceca
-Denmark,დანია,Danimarka,Danemark,Dänemark,Dinamarca,Denemarken,Dinamarca,Danimarca
-Diamond Princess,საკრუიზო გემი,Elmas Prenses,diamond Princess,diamond Princess,diamond Princess,Diamond Princess,Diamond Princess,Diamond Princess
-Dominican Republic,დომინიკის რესპუბლიკა,Dominik Cumhuriyeti,République Dominicaine,Dominikanische Republik,República Dominicana,Dominicaanse Republiek,República Dominicana,Repubblica Dominicana
-Ecuador,ეკვადორი,Ekvador,Equateur,Ecuador,Equador,Ecuador,Ecuador,Ecuador
-Egypt,ეგვიპტე,Mısır,Egypte,Ägypten,Egito,Egypte,Egipto,Egitto
-Estonia,ესტონეთი,Estonya,Estonie,Estland,Estônia,Estland,Estonia,Estonia
-Ethiopia,ეთიოპია,Etiyopya,Ethiopie,Äthiopien,Etiópia,Ethiopië,Etiopía,Etiopia
-Finland,ფინეთი,Finlandiya,Finlande,Finnland,Finlândia,Finland,Finlandia,Finlandia
-France,საფრანგეთი,Fransa,France,Frankreich,França,Frankrijk,Francia,Francia
-French Guiana,ფრანგული გუიანა,Fransız Guyanası,Guyane Française,Französisch-Guayana,Guiana Francesa,Frans-Guyana,Guayana francés,Guiana francese
-Georgia,საქართველო,Gürcistan,Géorgie,Georgia,Georgia,Georgië,Georgia,Georgia
-Germany,გერმანია,Almanya,Allemagne,Deutschland,Alemanha,Duitsland,Alemania,Germania
-Greece,საბერძნეთი,Yunanistan,Grèce,Griechenland,Grécia,Griekenland,Grecia,Grecia
-Guadeloupe,გვადალუპე,Guadeloupe,Guadeloupe,Guadeloupe,Guadalupe,Guadeloupe,Guadalupe,Guadeloupe
-Guinea,გვინეა,Gine,Guinée,Guinea,Guiné,Guinea,Guinea,Guinea
-Guyana,გაიანა,Guyana,Guyane,Guyana,Guiana,Guyana,Guayana,Guyana
-Honduras,ჰონდურასი,Honduras,Honduras,Honduras,Honduras,Honduras,Honduras,Honduras
-Hungary,უნგრეთი,Macaristan,Hongrie,Ungarn,Hungria,Hongarije,Hungría,Ungheria
-Iceland,ისლანდია,İzlanda,Islande,Island,Islândia,IJsland,Islandia,Islanda
-India,ინდოეთი,Hindistan,Inde,Indien,Índia,Indië,India,India
-Indonesia,ინდონეზია,Endonezya,Indonésie,Indonesien,Indonésia,Indonesië,Indonesia,Indonesia
-Iran,ირანი,İran,J'ai couru,Ich rannte,Eu corri,Ik rende,Corrí,Mi sono imbattuto
-Iraq,ერაყი,Irak,Irak,Irak,Iraque,Irak,Irak,Iraq
-Ireland,ირლანდია,İrlanda,Irlande,Irland,Irlanda,Ierland,Irlanda,Irlanda
-Israel,ისრაელი,İsrail,Israël,Israel,Israel,Israël,Israel,Israele
-Italy,იტალია,İtalya,Italie,Italien,Itália,Italië,Italia,Italia
-Jamaica,იამაიკა,Jamaika,Jamaïque,Jamaika,Jamaica,Jamaica,Jamaica,Giamaica
-Japan,იაპონია,Japonya,Japon,Japan,Japão,Japan,Japón,Giappone
-Jordan,იორდანია,Ürdün,Jordan,Jordan,Jordânia,Jordanië,Jordán,Giordania
-Kazakhstan,ყაზახეთი,Kazakistan,Kazakhstan,Kasachstan,Cazaquistão,Kazachstan,Kazajstán,Kazakistan
-Kenya,კენია,Kenya,Kenya,Kenia,Quênia,Kenia,Kenia,Kenia
-Kuwait,ქუვეითი,Kuveyt,Koweit,Kuwait,Kuweit,Koeweit,Kuwait,Kuwait
-Latvia,ლატვია,Letonya,Lettonie,Lettland,Letônia,Letland,Letonia,Lettonia
-Lebanon,ლიბანი,Lübnan,Liban,Libanon,Líbano,Libanon,Líbano,Libano
-Liechtenstein,ლიხტენშტეინი,Lihtenştayn,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein
-Lithuania,ლიტვა,Litvanya,Lituanie,Litauen,Lituânia,Litouwen,Lituania,Lituania
-Luxembourg,ლუქსემბურგი,Lüksemburg,Luxembourg,Luxemburg,Luxemburgo,Luxemburg,Luxemburgo,Lussemburgo
-Malaysia,მალაიზია,Malezya,Malaisie,Malaysia,Malásia,Maleisië,Malasia,Malaysia
-Maldives,მალდივები,Maldivler,Maldives,Malediven,Maldivas,Maldiven,Maldivas,Maldive
-Malta,მალტა,Malta,Malte,Malta,Malta,Malta,Malta,Malta
-Martinique,Martinique,Martinik,Martinique,Martinique,Martinique,Martinique,Martinica,Martinique
-Mexico,მექსიკა,Meksika,Mexique,Mexiko,México,Mexico,México,Messico
-Moldova,მოლდოვა,Moldova,Moldavie,Moldawien,Moldova,Moldavië,Moldavia,Moldova
-Monaco,მონაკო,Monako,Monaco,Monaco,Monaco,Monaco,Mónaco,Monaco
-Mongolia,მონღოლეთი,Moğolistan,Mongolie,Mongolei,Mongólia,Mongolië,Mongolia,Mongolia
-Morocco,მოროკო,Fas,Maroc,Marokko,Marrocos,Marokko,Marruecos,Marocco
-Nepal,ნეპალი,Nepal,Népal,Nepal,Nepal,Nepal,Nepal,Nepal
-Netherlands,ნიდერლანდები,Hollanda,Pays-Bas,Niederlande,Países Baixos,Nederland,Países Bajos,Olanda
-New Zealand,Ახალი ზელანდია,Yeni Zelanda,Nouvelle-Zélande,Neuseeland,Nova Zelândia,Nieuw-Zeeland,Nueva Zelanda,Nuova Zelanda
-Nigeria,ნიგერია,Nijerya,Nigeria,Nigeria,Nigéria,Nigeria,Nigeria,Nigeria
-North Macedonia,ჩრდ. მაკედონია,Kuzey Makedonya,Macédoine du Nord,Nord Mazedonien,Norte Macedônia,Noord-Macedonië,Norte Macedonia,Nord Macedonia
-Norway,ნორვეგია,Norveç,Norvège,Norwegen,Noruega,Noorwegen,Noruega,Norvegia
-Oman,ომანი,Umman,Oman,Oman,Omã,Oman,Omán,Oman
-Pakistan,პაკისტანი,Pakistan,Pakistan,Pakistan,Paquistão,Pakistan,Pakistán,Pakistan
-Panama,პანამა,Panama,Panama,Panama,Panamá,Panama,Panamá,Panama
-Paraguay,პარაგვაი,Paraguay,Paraguay,Paraguay,Paraguai,Paraguay,Paraguay,Paraguay
-Peru,პერუ,Peru,Pérou,Peru,Peru,Peru,Perú,Perù
-Philippines,ფილიპინები,Filipinler,Philippines,Philippinen,Filipinas,Filippijnen,Filipinas,Filippine
-Poland,პოლონეთი,Polonya,Pologne,Polen,Polônia,Polen,Polonia,Polonia
-Portugal,პორტუგალია,Portekiz,le Portugal,Portugal,Portugal,Portugal,Portugal,Portogallo
-Qatar,ყატარი,Katar,Qatar,Katar,Catar,Katar,Katar,Qatar
-Reunion,რეუნიონი,birleşme,Réunion,Wiedervereinigung,Reunião,Bijeenkomst,Reunión,Riunione
-Romania,რუმინეთი,Romanya,Roumanie,Rumänien,Romênia,Roemenië,Rumania,Romania
-Russia,რუსეთი,Rusya,Russie,Russland,Rússia,Rusland,Rusia,Russia
-San Marino,სან მარინო,San Marino,Saint Marin,San Marino,San Marino,San Marino,San Marino,San Marino
-Saudi Arabia,საუდის არაბეთი,Suudi Arabistan,Arabie Saoudite,Saudi Arabien,Arábia Saudita,Saoedi-Arabië,Arabia Saudita,Arabia Saudita
-Senegal,სენეგალი,Senegal,Sénégal,Senegal,Senegal,Senegal,Senegal,Senegal
-Serbia,სერბეთი,Sırbistan,Serbie,Serbien,Sérvia,Servië,Serbia,Serbia
-Singapore,სინგაპური,Singapur,Singapour,Singapur,Cingapura,Singapore,Singapur,Singapore
-Slovakia,სლოვაკეთი,Slovakya,Slovaquie,Slowakei,Eslováquia,Slowakije,Eslovaquia,Slovacchia
-Slovenia,სლოვენია,Slovenya,Slovénie,Slowenien,Eslovenia,Slovenië,Eslovenia,Slovenia
-South Africa,სამხრეთ აფრიკა,Güney Afrika,Afrique du Sud,Südafrika,África do Sul,Zuid-Afrika,Sudáfrica,Sud Africa
-South Korea,სამხრეთ კორეა,Güney Kore,Corée du Sud,Südkorea,Coreia do Sul,Zuid-Korea,Corea del Sur,Corea del Sud
-Spain,ესპანეთი,ispanya,Espagne,Spanien,Espanha,Spanje,España,Spagna
-Sri Lanka,შრი ლანკა,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka
-Sudan,სუდანი,Sudan,Soudan,Sudan,Sudão,Soedan,Sudán,Sudan
-Sweden,შვედეთი,İsveç,Suède,Schweden,Suécia,Zweden,Suecia,Svezia
-Switzerland,შვეიცარია,İsviçre,Suisse,Schweiz,Suíça,Zwitserland,Suiza,Svizzera
-Taiwan,ტაივანი,Tayvan,Taïwan,Taiwan,Taiwan,Taiwan,Taiwán,Taiwan
-Thailand,ტაილანდი,Tayland,Thaïlande,Thailand,Tailândia,Thailand,Tailandia,Tailandia
-Togo,ტოგო,Gitmek,Aller,Gehen,Ir,Gaan,Ir,Andare
-Tunisia,ტუნისი,Tunus,Tunisie,Tunesien,Tunísia,Tunesië,Túnez,Tunisia
-Turkey,თურქეთი,Türkiye,dinde,Truthahn,Peru,kalkoen,pavo,tacchino
-UAE,არაბთა საემირობი,BAE,Émirats arabes unis,UAE,UAE,VAE,EAU,Emirati Arabi Uniti
-UK,დიდი ბრიტანეთი,UK,Royaume-Uni,Vereinigtes Königreich,Reino Unido,UK,Reino Unido,UK
-USA,აშშ,Amerika Birleşik Devletleri,Etats-Unis,USA,EUA,Verenigde Staten van Amerika,Estados Unidos,Stati Uniti d'America
-Ukraine,უკრაინა,Ukrayna,Ukraine,Ukraine,Ucrânia,Oekraïne,Ucrania,Ucraina
-Vatican City,ვატიკანი,Vatikan Şehri,Cité du Vatican,Vatikanstadt,Cidade do Vaticano,Vaticaanstad,Ciudad del Vaticano,Città del Vaticano
-Vietnam,ვიეტნამი,Vietnam,Viêt-Nam,Vietnam,Vietnã,Vietnam,Vietnam,Vietnam
-Angola,ანგოლა,Angora,Angola,Angola,Angola,Angola,Angola,angola
-Antarctica,ანტარქტიკა,Antarktika,Antarctique,Antarktika,Antártica,Antarctica,Antártida,Antartide
-French Southern and Antarctic Lands,საფრანგეთის სამხრეთული და ანტარქტიდული ტერიტორია,Fransız Güney ve Antarktik,Français Terres Australes et Antarctiques,Französisch Süd- und Antarktisgebiete,Franceses do Sul e Antártica,Franse Zuidelijke en Antarctische gebieden,Meridional francés y Tierras antárticas,Terre australi e antartiche
-Burundi,ბურუნდი,Burundi,Burundi,Burundi,Burundi,Boeroendi,Burundi,Burundi
-Benin,ბენინი,Benin,Bénin,Benin,Benin,Benin,Benin,Benin
-The Bahamas,ბაჰამები,Bahamalar,Les Bahamas,Die Bahamas,As Bahamas,De Bahamas,Las Bahamas,Le Bahamas
-Belize,ბელიზი,Belize,Belize,Belize,Belize,Belize,Belice,Belize
-Botswana,ბოტსვანა,Botsvana,Botswana,Botswana,Botswana,Botswana,Botswana,Botswana
-Republic of the Congo,კონგოს რესპუბლიკა,Kongo Cumhuriyeti,République du Congo,Republik Kongo,República do Congo,Republiek Congo,República del Congo,Repubblica del Congo
-Northern Cyprus,ჩრდილოეთ კვიპროსის,Kuzey Kıbrıs,Chypre du Nord,Nord-Zypern,Norte do Chipre,Noord-Cyprus,El norte de Chipre,Cipro del Nord
-Djibouti,ჯიბუტი,Cibuti,Djibouti,Dschibuti,Djibouti,Djibouti,Djibouti,Gibuti
-Eritrea,ერიტრეა,Eritre,Érythrée,Eritrea,Eritrea,Eritrea,Eritrea,l'Eritrea
-Fiji,ფიჯი,Fiji,Fidji,Fidschi,Fiji,Fiji,Fiji,Fiji
-Falkland Islands,ფოლკლენდის კუნძულები,Falkland adaları,les îles Falkland,Falkland Inseln,Ilhas Falkland,Falkland Eilanden,Islas Malvinas,Isole Falkland
-Gambia,გამბია,Gambiya,Gambie,Gambia,Gâmbia,Gambia,Gambia,Gambia
-Guinea Bissau,გვინეა-ბისაუ,Gine Bissau,la Guinée-Bissau,Guinea-Bissau,Guiné-Bissau,Guinee-Bissau,Guinea Bissau,Guinea-Bissau
-Greenland,გრენლანდია,Grönland,Groenland,Grönland,Groenlândia,Groenland,Groenlandia,Groenlandia
-Haiti,ჰაიტი,Haiti,Haïti,Haiti,Haiti,Haïti,Haití,Haiti
-Kyrgyzstan,ყირგიზეთი,Kırgızistan,Kirghizistan,Kirgisistan,Quirguistão,Kirgizië,Kirguizistán,Kyrgyzstan
-Laos,ლაოსი,Laos,Laos,Laos,Laos,Laos,Laos,Laos
-Liberia,ლიბერია,Liberya,Libéria,Liberia,Libéria,Liberia,Liberia,Liberia
-Libya,ლიბია,Libya,Libye,Libyen,Líbia,Libië,Libia,Libia
-Lesotho,ლესოტო,Lesotho,Lesotho,Lesotho,Lesoto,Lesotho,Lesoto,Lesoto
-Madagascar,მადაგასკარი,Madagaskar,Madagascar,Madagaskar,Madagáscar,Madagascar,Madagascar,Madagascar
-Mali,მალი,Mali,Mali,Mali,Mali,Mali,mali,Mali
-Myanmar,მიანმა,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar
-Montenegro,მონტენეგრო,Karadağ,Monténégro,Montenegro,Montenegro,Montenegro,Montenegro,Montenegro
-Mozambique,მოზამბიკი,Mozambik,Mozambique,Mosambik,Moçambique,Mozambique,Mozambique,Mozambico
-Malawi,მალავი,Malawi,Malawi,Malawi,Malavi,Malawi,Malawi,Malawi
-New Caledonia,ახალი კალედონია,Yeni Kaledonya,Nouvelle Calédonie,Neu-Kaledonien,Nova Caledônia,Nieuw-Caledonië,Nueva Caledonia,Nuova Caledonia
-Niger,ნიგერია,Nijer,Niger,Niger,Níger,Niger,Níger,Niger
-Nicaragua,ნიკარაგუა,Nikaragua,Nicaragua,Nicaragua,Nicarágua,Nicaragua,Nicaragua,Nicaragua
-Papua New Guinea,პაპუა ახალი გვინეა,Papua Yeni Gine,Papouasie Nouvelle Guinée,Papua Neu-Guinea,Papua Nova Guiné,Papoea-Nieuw-Guinea,Papúa Nueva Guinea,Papua Nuova Guinea
-Puerto Rico,პუერტო რიკო,Porto Riko,Porto Rico,Puerto Rico,Porto Rico,Puerto Rico,Puerto Rico,Porto Rico
-North Korea,ჩრდილოეთ კორეა,Kuzey Kore,Corée du Nord,Nord Korea,Coreia do Norte,Noord Korea,Corea del Norte,Corea del nord
-Western Sahara,დასავლეთ საჰარას,Batı Sahra,Sahara occidental,Westsahara,Saara Ocidental,Westelijke Sahara,Sahara Occidental,Sahara occidentale
-South Sudan,სამხრეთ სუდანი,Güney Sudan,Soudan du sud,Südsudan,Sudão do Sul,Zuid Soedan,Sudán del Sur,Sudan del Sud
-Solomon Islands,სოლომონის კუნძულები,Solomon Adaları,Les îles Salomon,Salomon-Inseln,Ilhas Salomão,Solomon eilanden,Islas Salomón,Isole Salomone
-Sierra Leone,სიერა ლეონე,Sierra Leone,Sierra Leone,Sierra Leone,Serra Leoa,Sierra Leone,Sierra Leona,Sierra Leone
-El Salvador,ელ-სალვადორი,El Salvador,Le Salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador
-Somaliland,სომალის მიწა,Somaliland,Somaliland,Somali,Somaliland,Somaliland,Somalilandia,Somaliland
-Somalia,სომალი,Somali,Somalie,Somalia,Somália,Somalië,Somalia,Somalia
-Swaziland,სვაზილენდი,Svaziland,Swaziland,Swasiland,Suazilândia,Swaziland,Swazilandia,Swaziland
-Syria,სირია,Suriye,Syrie,Syrien,Síria,Syrië,Siria,Siria
-Chad,ჩადი,Çad,Tchad,Tschad,Chade,Tsjaad,Chad,Chad
-Tajikistan,ტაჯიკეთი,Tacikistan,Tadjikistan,Tadschikistan,Tadjiquistão,Tadzjikistan,Tayikistán,Tajikistan
-Turkmenistan,თურქმენეთი,Türkmenistan,Turkménistan,Turkmenistan,Turcomenistão,Turkmenistan,Turkmenistán,Turkmenistan
-East Timor,აღმოსავლეთ ტიმორი,Doğu Timor,Timor oriental,Osttimor,Timor Leste,Oost Timor,Timor del Este,Timor Est
-United Republic of Tanzania,ტანზანიის გაერთიანებული რესპუბლიკა,Tanzanya Birleşik Cumhuriyeti,République-Unie de Tanzanie,Vereinigte Republik Tansania,República Unida da Tanzânia,Verenigde Republiek Tanzania,República Unida de Tanzania,Repubblica Unita di Tanzania
-Uganda,უგანდა,Uganda,Ouganda,Uganda,Uganda,Oeganda,Uganda,Uganda
-Vanuatu,ვანუატუ,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu
-West Bank,დასავლეთ სანაპირო,Batı Bankası,banque de l'Ouest,Westjordanland,Cisjordânia,Westoever,Banco Oeste,Cisgiordania
-Yemen,იემენი,Yemen,Yémen,Jemen,Iémen,Jemen,Yemen,yemen
-Zambia,ზამბია,Zambiya,Zambie,Sambia,Zâmbia,Zambia,Zambia,Zambia
-Zimbabwe,ზიმბაბვე,Zimbabve,Zimbabwe,Zimbabwe,Zimbábue,Zimbabwe,Zimbabue,Zimbabwe
-Namibia,ნამიბია,Namibya,Namibie,Namibia,Namíbia,Namibië,Namibia,Namibia
-Central African Republic,ცენტ. აფრ. რესპ.,Orta Afrika Cumhuriyeti,République centrafricaine,Zentralafrikanische Republik,República Centro-Africano,Centraal Afrikaanse Republiek,República Centroafricana,Repubblica Centrafricana
-Ghana,განა,Gana,Ghana,Ghana,Gana,Ghana,Ghana,Ghana
-Mauritania,მავრიტანია,Moritanya,Mauritanie,Mauretanien,Mauritânia,Mauritanië,Mauritania,Mauritania
-Kosovo,კოსოვო,Kosova,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo
-rwanda,რუანდა,ruanda,Rwanda,rwanda,Ruanda,Rwanda,Ruanda,Ruanda
-guatemala,გვატემალა,guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala
-uzbekistan,უზბეკეთი,Özbekistan,Uzbekistan,Usbekistan,Uzbequistão,Oezbekistan,Uzbekistán,Uzbekistan
-barbados,ბარბადოსი,barbados,barbade,Barbados,barbados,Barbados,barbados,barbados
-martinique,მარტინიკე,martinique,Martinique,Martinique,martinica,martinique,Martinica,MARTINICA
-seychelles,სეიშელი,seyşeller,les Seychelles,seychelles,seychelles,Seychellen,seychelles,Seychelles
-trinidad and tobago,ტრინიდადი და ტობაგო,Trinidad ve Tobago,Trinité-et-Tobago,Trinidad und Tobago,Trinidad e Tobago,Trinidad en Tobago,Trinidad y Tobago,Trinidad e Tobago
-the gambia,გამბია,Gambiya,gambie,die gambia,Gâmbia,Gambia,Gambia,Gambia
+en,ge,tr,fr,de,pt,nl,es,it,cn
+rank,პოზიცია,rütbe,rang,Rang,classificação,rang,rango,rango,秩
+venezuela,ვენესუელა,venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,委内瑞拉
+help with translation,თარგმნაში დახმარება,çeviri ile yardım,aide à la traduction,Hilfe bei der Übersetzung,ajuda com tradução,hulp bij het vertalen,ayuda con la traducción,assistenza di un traduttore,通过翻译的帮助
+from yesterday,სხვაობა წინა დღესთან,dünden,d'hier,von gestern,de ontem,van gisteren,de ayer,da ieri,从昨天
+yesterday,წინა დღის,dün,hier,gestern,ontem,gisteren,ayer,ieri,昨天
+Pause,პაუზა,Duraklat,Pause,Pause,Pausa,Pauze,Pausa,Pausa,暂停
+Play,დრო,Oyna,Jouer,abspielen,Toque,Speel,Jugar,Giocare,玩
+cases,ყველა შემთხვ.,vakalar,cas,Fälle,casos,gevallen,casos,casi,例
+deaths,გარდაიცვალა,ölümler,des morts,Todesfälle,mortes,sterfgevallen,muertes,morti,死亡
+recovered,გამოჯანმრთელდა,geri kazanılan,rétabli,zurückgewonnen,recuperado,hersteld,recuperado,recuperato,恢复
+death rate,სიკვდილიანობა,ölüm oranı,taux de mortalité,Todesrate,índice de mortalidade,sterftecijfer,índice de mortalidad,tasso di mortalità,死亡率
+corona virus,კორონა ვირუსი,korona virüsü,virus corona,Coronavirus,vírus corona,coronavirus,virus de la corona,corona virus,新冠病毒
+diff from,სხვაობა,dan fark,diff de,diff aus,diff de,diff van,diff,diff da,从差异
+diff,სხვაობა,diff,diff,diff,diff,diff,diff,diff,DIFF
+top,top,üst,Haut,oben,topo,top,parte superior,superiore,最佳
+world,მსოფლიო,Dünya,monde,Welt,mundo,wereld,mundo,mondo,世界
+europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa,欧洲
+asia,აზია,Asya,Asie,Asien,Ásia,Azië,Asia,Asia,亚洲
+africa,აფრიკა,Afrika,Afrique,Afrika,África,Afrika,África,Africa,非洲
+in the,,,,,,,,,
+north america,ჩრდ. ამერიკა,Kuzey Amerika,Amérique du Nord,Nordamerika,América do Norte,Noord Amerika,Norteamérica,Nord America,北美
+south america,სამხ. ამერიკა,Güney Amerika,Amérique du Sud,Südamerika,América do Sul,Zuid-Amerika,Sudamerica,Sud America,南美洲
+australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia,澳大利亚
+new deaths,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe sterfgevallen,nuevas muertes,nuovi decessi,新的死亡
+new fatalities,ახალი მსხვერპლი,yeni ölümlerin,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,nuevas víctimas mortales,nuovi decessi,新死亡
+total fatalities,გარდაცვლილთა რაოდ.,toplam can kaybı,nombre total de décès,insgesamt Todesfälle,fatalidades totais,totaal doden,el total de muertes,incidenti mortali totali,总死亡人数
+total recovered,გამოჯანმრთელდა,toplam geri,totale récupérée,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato,总回复
+death rates (%),სიკვდილიანობა (%),ölüm oranları (%),taux de mortalité (%),Todesraten (%),as taxas de mortalidade (%),sterftecijfers (%),las tasas de mortalidad (%),i tassi di mortalità (%),死亡率（％）
+fatality rate (%),სიკვდილიანობა (%),Ölüm oranı (%),taux de mortalité (%),Sterblichkeitsrate (%),índice de fatalidade (%),sterftecijfer (%),tasa de fatalidad (%),tasso di mortalità (%),死亡率（％）
+active cases,აქტიური შემთხვ.,aktif vakaları,cas actifs,aktive Fälle,casos ativos,actieve zaken,casos activos,casi attivi,活跃的情况下，
+existing cases,აქტიური შემთხვ.,varolan vakalar,les cas existants,Altfälle,casos existentes,bestaande gevallen,casos existentes,casi esistenti,现有案例
+new cases,ახალი შემთხვ.,yeni vaka,nouveaux cas,Neuerkrankungen,novos casos,nieuwe gevallen,nuevos casos,nuovi casi,新病例
+total cases,ყველა შემთხვ.,toplam vaka,Le total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali,总病例
+January,იანვარი,Ocak,janvier,Januar,janeiro,januari,enero,gennaio,一月
+February,თებერვალი,Şubat,février,Februar,fevereiro,februari,febrero,febbraio,二月
+March,მარტი,Mart,Mars,März,marcha,maart,marzo,marzo,游行
+April,აპრილი,Nisan,avril,April,abril,april,abril,aprile,四月
+May,მაისი,Mayıs,Mai,Kann,Pode,mei,Mayo,Maggio,可以
+June,ივნისი,Haziran,juin,Juni,Junho,juni,junio,giugno,六月
+Jule,ივლისი,Jule,Jule,Jule,Jule,Jule,Jule,Jule,巨乐
+August,აგვისტო,Ağustos,août,August,agosto,augustus,agosto,agosto,八月
+September,სექტემბერი,Eylül,septembre,September,setembro,september,septiembre,settembre,九月
+October,ოქტომბერი,Ekim,octobre,Oktober,Outubro,oktober,octubre,ottobre,十月
+November,ნოემბერი,Kasım,novembre,November,novembro,november,noviembre,novembre,十一月
+December,დეკემბერი,Aralık,décembre,Dezember,dezembro,december,diciembre,dicembre,十二月
+Afghanistan,ავღანეთი,Afganistan,Afghanistan,Afghanistan,Afeganistão,Afghanistan,Afganistán,afghanistan,阿富汗
+Albania,ალბანეთი,Arnavutluk,Albanie,Albanien,Albânia,Albanië,Albania,Albania,阿尔巴尼亚
+Algeria,ალჯირი,Cezayir,Algérie,Algerien,Argélia,Algerije,Argelia,algeria,阿尔及利亚
+Andorra,ანდორა,Andorra,Andorre,Andorra,Andorra,Andorra,Andorra,Andorra,安道尔
+Antigua and Barbuda,ანტიგუა და ბარბუდა,Antigua ve Barbuda,Antigua-et-Barbuda,Antigua und Barbuda,Antígua e Barbuda,Antigua en Barbuda,Antigua y Barbuda,Antigua e Barbuda,安提瓜和巴布达
+Argentina,არგენტინა,Arjantin,Argentine,Argentinien,Argentina,Argentinië,Argentina,Argentina,阿根廷
+Armenia,სომხეთი,Ermenistan,Arménie,Armenien,Armênia,Armenië,Armenia,Armenia,亚美尼亚
+Aruba,არუბა,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,aruba,阿鲁巴
+Australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia,澳大利亚
+Austria,ავსტრია,Avusturya,L'Autriche,Österreich,Áustria,Oostenrijk,Austria,Austria,奥地利
+Azerbaijan,აზერბაიჯანი,Azerbeycan,Azerbaïdjan,Aserbaidschan,Azerbaijão,Azerbeidzjan,Azerbaiyán,Azerbaijan,阿塞拜疆
+Bahrain,ბაჰრეინი,Bahreyn,Bahreïn,Bahrein,Bahrain,Bahrein,Bahrein,Bahrain,巴林
+Bangladesh,ბანგლადეში,Bangladeş,Bangladesh,Bangladesch,Bangladesh,Bangladesh,Bangladesh,Bangladesh,孟加拉国
+Belarus,ბელორუსია,Belarus,Biélorussie,Weißrussland,Belarus,Wit-Rusland,Bielorrusia,Bielorussia,白俄罗斯
+Belgium,ბელგია,Belçika,Belgique,Belgien,Bélgica,België,Bélgica,Belgio,比利时
+Bhutan,ბუტანის,Butan,Bhoutan,Bhutan,Butão,Bhutan,Bután,Bhutan,不丹
+Bolivia,ბოლივიის,Bolivya,Bolivie,Bolivien,Bolívia,Bolivia,Bolivia,Bolivia,玻利维亚
+Bosnia and Herzegovina,ბოსნია და ჰერცოგოვინა,Bosna Hersek,Bosnie Herzégovine,Bosnien und Herzegowina,Bósnia e Herzegovina,Bosnië-Herzegovina,Bosnia y Herzegovina,Bosnia Erzegovina,波斯尼亚和黑塞哥维那
+Brazil,ბრაზილია,Brezilya,Brésil,Brasilien,Brasil,Brazilië,Brasil,Brasile,巴西
+Brunei,ბრუნეი,Brunei,Brunei,Brunei,Brunei,Brunei,Brunei,Brunei,文莱
+Bulgaria,ბულგარეთი,Bulgaristan,Bulgarie,Bulgarien,Bulgária,Bulgarije,Bulgaria,Bulgaria,保加利亚
+Burkina Faso,ბურკინა ფასო,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,Burkina Faso,布基纳法索
+Cambodia,კამბოჯა,Kamboçya,Cambodge,Kambodscha,Camboja,Cambodja,Camboya,Cambogia,柬埔寨
+Cameroon,კამერუნი,Kamerun,Cameroun,Kamerun,Camarões,Kameroen,Camerún,Camerun,喀麦隆
+Canada,კანადა,Kanada,Canada,Kanada,Canadá,Canada,Canadá,Canada,加拿大
+Cayman Islands,კაიმანის კუნძულები,Cayman Adaları,Îles Caïmans,Cayman Inseln,Ilhas Cayman,Kaaiman Eilanden,Islas Caimán,Isole Cayman,开曼群岛
+Chile,ჩილე,Şili,Chili,Chile,Chile,Chili,Chile,Chile,智利
+China,ჩინეთი,Çin,Chine,China,China,China,China,Cina,中国
+Colombia,კოლუმბია,Kolombiya,Colombie,Kolumbien,Colômbia,Colombia,Colombia,Colombia,哥伦比亚
+Congo,კონგო,Kongo,Congo,Kongo,Congo,Congo,Congo,Congo,刚果
+Costa Rica,კოსტა - რიკა,Kostarika,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,Costa Rica,哥斯达黎加
+Cote d'Ivoire,კოტ დივუარი,Fildişi Sahili,Côte d'Ivoire,Cote d'Ivoire,Cote d'Ivoire,Cote d'Ivoire,Costa de Marfil,Costa d'Avorio,科特迪瓦
+Croatia,ხორვატია,Hırvatistan,Croatie,Kroatien,Croácia,Kroatië,Croacia,Croazia,克罗地亚
+Cuba,კუბა,Küba,Cuba,Kuba,Cuba,Cuba,Cuba,Cuba,古巴
+Cyprus,კვიპროსი,Kıbrıs,Chypre,Zypern,Chipre,Cyprus,Chipre,Cipro,塞浦路斯
+Czech Republic,ჩეხეთის რესპუბლიკა,Çek Cumhuriyeti,République Tchèque,Tschechische Republik,República Checa,Tsjechië,Republica checa,Repubblica Ceca,捷克共和国
+Denmark,დანია,Danimarka,Danemark,Dänemark,Dinamarca,Denemarken,Dinamarca,Danimarca,丹麦
+Diamond Princess,საკრუიზო გემი,Elmas Prenses,diamond Princess,diamond Princess,diamond Princess,Diamond Princess,Diamond Princess,Diamond Princess,钻石公主号
+Dominican Republic,დომინიკის რესპუბლიკა,Dominik Cumhuriyeti,République Dominicaine,Dominikanische Republik,República Dominicana,Dominicaanse Republiek,República Dominicana,Repubblica Dominicana,多明尼加共和国
+Ecuador,ეკვადორი,Ekvador,Equateur,Ecuador,Equador,Ecuador,Ecuador,Ecuador,厄瓜多尔
+Egypt,ეგვიპტე,Mısır,Egypte,Ägypten,Egito,Egypte,Egipto,Egitto,埃及
+Estonia,ესტონეთი,Estonya,Estonie,Estland,Estônia,Estland,Estonia,Estonia,爱沙尼亚
+Ethiopia,ეთიოპია,Etiyopya,Ethiopie,Äthiopien,Etiópia,Ethiopië,Etiopía,Etiopia,埃塞俄比亚
+Finland,ფინეთი,Finlandiya,Finlande,Finnland,Finlândia,Finland,Finlandia,Finlandia,芬兰
+France,საფრანგეთი,Fransa,France,Frankreich,França,Frankrijk,Francia,Francia,法国
+French Guiana,ფრანგული გუიანა,Fransız Guyanası,Guyane Française,Französisch-Guayana,Guiana Francesa,Frans-Guyana,Guayana francés,Guiana francese,法属圭亚那
+Georgia,საქართველო,Gürcistan,Géorgie,Georgia,Georgia,Georgië,Georgia,Georgia,格鲁吉亚
+Germany,გერმანია,Almanya,Allemagne,Deutschland,Alemanha,Duitsland,Alemania,Germania,德国
+Greece,საბერძნეთი,Yunanistan,Grèce,Griechenland,Grécia,Griekenland,Grecia,Grecia,希腊
+Guadeloupe,გვადალუპე,Guadeloupe,Guadeloupe,Guadeloupe,Guadalupe,Guadeloupe,Guadalupe,Guadeloupe,瓜德罗普岛
+Guinea,გვინეა,Gine,Guinée,Guinea,Guiné,Guinea,Guinea,Guinea,几内亚
+Guyana,გაიანა,Guyana,Guyane,Guyana,Guiana,Guyana,Guayana,Guyana,圭亚那
+Honduras,ჰონდურასი,Honduras,Honduras,Honduras,Honduras,Honduras,Honduras,Honduras,洪都拉斯
+Hungary,უნგრეთი,Macaristan,Hongrie,Ungarn,Hungria,Hongarije,Hungría,Ungheria,匈牙利
+Iceland,ისლანდია,İzlanda,Islande,Island,Islândia,IJsland,Islandia,Islanda,冰岛
+India,ინდოეთი,Hindistan,Inde,Indien,Índia,Indië,India,India,印度
+Indonesia,ინდონეზია,Endonezya,Indonésie,Indonesien,Indonésia,Indonesië,Indonesia,Indonesia,印度尼西亚
+Iran,ირანი,İran,J'ai couru,Ich rannte,Eu corri,Ik rende,Corrí,Mi sono imbattuto,伊朗
+Iraq,ერაყი,Irak,Irak,Irak,Iraque,Irak,Irak,Iraq,伊拉克
+Ireland,ირლანდია,İrlanda,Irlande,Irland,Irlanda,Ierland,Irlanda,Irlanda,爱尔兰
+Israel,ისრაელი,İsrail,Israël,Israel,Israel,Israël,Israel,Israele,以色列
+Italy,იტალია,İtalya,Italie,Italien,Itália,Italië,Italia,Italia,意大利
+Jamaica,იამაიკა,Jamaika,Jamaïque,Jamaika,Jamaica,Jamaica,Jamaica,Giamaica,牙买加
+Japan,იაპონია,Japonya,Japon,Japan,Japão,Japan,Japón,Giappone,日本
+Jordan,იორდანია,Ürdün,Jordan,Jordan,Jordânia,Jordanië,Jordán,Giordania,约旦
+Kazakhstan,ყაზახეთი,Kazakistan,Kazakhstan,Kasachstan,Cazaquistão,Kazachstan,Kazajstán,Kazakistan,哈萨克斯坦
+Kenya,კენია,Kenya,Kenya,Kenia,Quênia,Kenia,Kenia,Kenia,肯尼亚
+Kuwait,ქუვეითი,Kuveyt,Koweit,Kuwait,Kuweit,Koeweit,Kuwait,Kuwait,科威特
+Latvia,ლატვია,Letonya,Lettonie,Lettland,Letônia,Letland,Letonia,Lettonia,拉脱维亚
+Lebanon,ლიბანი,Lübnan,Liban,Libanon,Líbano,Libanon,Líbano,Libano,黎巴嫩
+Liechtenstein,ლიხტენშტეინი,Lihtenştayn,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,Liechtenstein,列支敦士登
+Lithuania,ლიტვა,Litvanya,Lituanie,Litauen,Lituânia,Litouwen,Lituania,Lituania,立陶宛
+Luxembourg,ლუქსემბურგი,Lüksemburg,Luxembourg,Luxemburg,Luxemburgo,Luxemburg,Luxemburgo,Lussemburgo,卢森堡
+Malaysia,მალაიზია,Malezya,Malaisie,Malaysia,Malásia,Maleisië,Malasia,Malaysia,马来西亚
+Maldives,მალდივები,Maldivler,Maldives,Malediven,Maldivas,Maldiven,Maldivas,Maldive,马尔代夫
+Malta,მალტა,Malta,Malte,Malta,Malta,Malta,Malta,Malta,马耳他
+Martinique,Martinique,Martinik,Martinique,Martinique,Martinique,Martinique,Martinica,Martinique,马提尼克
+Mexico,მექსიკა,Meksika,Mexique,Mexiko,México,Mexico,México,Messico,墨西哥
+Moldova,მოლდოვა,Moldova,Moldavie,Moldawien,Moldova,Moldavië,Moldavia,Moldova,摩尔多瓦
+Monaco,მონაკო,Monako,Monaco,Monaco,Monaco,Monaco,Mónaco,Monaco,摩纳哥
+Mongolia,მონღოლეთი,Moğolistan,Mongolie,Mongolei,Mongólia,Mongolië,Mongolia,Mongolia,蒙古
+Morocco,მოროკო,Fas,Maroc,Marokko,Marrocos,Marokko,Marruecos,Marocco,摩洛哥
+Nepal,ნეპალი,Nepal,Népal,Nepal,Nepal,Nepal,Nepal,Nepal,尼泊尔
+Netherlands,ნიდერლანდები,Hollanda,Pays-Bas,Niederlande,Países Baixos,Nederland,Países Bajos,Olanda,荷兰
+New Zealand,Ახალი ზელანდია,Yeni Zelanda,Nouvelle-Zélande,Neuseeland,Nova Zelândia,Nieuw-Zeeland,Nueva Zelanda,Nuova Zelanda,新西兰
+Nigeria,ნიგერია,Nijerya,Nigeria,Nigeria,Nigéria,Nigeria,Nigeria,Nigeria,尼日利亚
+North Macedonia,ჩრდ. მაკედონია,Kuzey Makedonya,Macédoine du Nord,Nord Mazedonien,Norte Macedônia,Noord-Macedonië,Norte Macedonia,Nord Macedonia,北马其顿
+Norway,ნორვეგია,Norveç,Norvège,Norwegen,Noruega,Noorwegen,Noruega,Norvegia,挪威
+Oman,ომანი,Umman,Oman,Oman,Omã,Oman,Omán,Oman,阿曼
+Pakistan,პაკისტანი,Pakistan,Pakistan,Pakistan,Paquistão,Pakistan,Pakistán,Pakistan,巴基斯坦
+Panama,პანამა,Panama,Panama,Panama,Panamá,Panama,Panamá,Panama,巴拿马
+Paraguay,პარაგვაი,Paraguay,Paraguay,Paraguay,Paraguai,Paraguay,Paraguay,Paraguay,巴拉圭
+Peru,პერუ,Peru,Pérou,Peru,Peru,Peru,Perú,Perù,秘鲁
+Philippines,ფილიპინები,Filipinler,Philippines,Philippinen,Filipinas,Filippijnen,Filipinas,Filippine,菲律宾
+Poland,პოლონეთი,Polonya,Pologne,Polen,Polônia,Polen,Polonia,Polonia,波兰
+Portugal,პორტუგალია,Portekiz,le Portugal,Portugal,Portugal,Portugal,Portugal,Portogallo,葡萄牙
+Qatar,ყატარი,Katar,Qatar,Katar,Catar,Katar,Katar,Qatar,卡塔尔
+Reunion,რეუნიონი,birleşme,Réunion,Wiedervereinigung,Reunião,Bijeenkomst,Reunión,Riunione,团圆
+Romania,რუმინეთი,Romanya,Roumanie,Rumänien,Romênia,Roemenië,Rumania,Romania,罗马尼亚
+Russia,რუსეთი,Rusya,Russie,Russland,Rússia,Rusland,Rusia,Russia,俄国
+San Marino,სან მარინო,San Marino,Saint Marin,San Marino,San Marino,San Marino,San Marino,San Marino,圣马力诺
+Saudi Arabia,საუდის არაბეთი,Suudi Arabistan,Arabie Saoudite,Saudi Arabien,Arábia Saudita,Saoedi-Arabië,Arabia Saudita,Arabia Saudita,沙特阿拉伯
+Senegal,სენეგალი,Senegal,Sénégal,Senegal,Senegal,Senegal,Senegal,Senegal,塞内加尔
+Serbia,სერბეთი,Sırbistan,Serbie,Serbien,Sérvia,Servië,Serbia,Serbia,塞尔维亚
+Singapore,სინგაპური,Singapur,Singapour,Singapur,Cingapura,Singapore,Singapur,Singapore,新加坡
+Slovakia,სლოვაკეთი,Slovakya,Slovaquie,Slowakei,Eslováquia,Slowakije,Eslovaquia,Slovacchia,斯洛伐克
+Slovenia,სლოვენია,Slovenya,Slovénie,Slowenien,Eslovenia,Slovenië,Eslovenia,Slovenia,斯洛文尼亚
+South Africa,სამხრეთ აფრიკა,Güney Afrika,Afrique du Sud,Südafrika,África do Sul,Zuid-Afrika,Sudáfrica,Sud Africa,南非
+South Korea,სამხრეთ კორეა,Güney Kore,Corée du Sud,Südkorea,Coreia do Sul,Zuid-Korea,Corea del Sur,Corea del Sud,韩国
+Spain,ესპანეთი,ispanya,Espagne,Spanien,Espanha,Spanje,España,Spagna,西班牙
+Sri Lanka,შრი ლანკა,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,斯里兰卡
+Sudan,სუდანი,Sudan,Soudan,Sudan,Sudão,Soedan,Sudán,Sudan,苏丹
+Sweden,შვედეთი,İsveç,Suède,Schweden,Suécia,Zweden,Suecia,Svezia,瑞典
+Switzerland,შვეიცარია,İsviçre,Suisse,Schweiz,Suíça,Zwitserland,Suiza,Svizzera,瑞士
+Taiwan,ტაივანი,Tayvan,Taïwan,Taiwan,Taiwan,Taiwan,Taiwán,Taiwan,台湾
+Thailand,ტაილანდი,Tayland,Thaïlande,Thailand,Tailândia,Thailand,Tailandia,Tailandia,泰国
+Togo,ტოგო,Gitmek,Aller,Gehen,Ir,Gaan,Ir,Andare,多哥
+Tunisia,ტუნისი,Tunus,Tunisie,Tunesien,Tunísia,Tunesië,Túnez,Tunisia,突尼斯
+Turkey,თურქეთი,Türkiye,dinde,Truthahn,Peru,kalkoen,pavo,tacchino,火鸡
+UAE,არაბთა საემირობი,BAE,Émirats arabes unis,UAE,UAE,VAE,EAU,Emirati Arabi Uniti,阿联酋
+UK,დიდი ბრიტანეთი,UK,Royaume-Uni,Vereinigtes Königreich,Reino Unido,UK,Reino Unido,UK,联合王国
+USA,აშშ,Amerika Birleşik Devletleri,Etats-Unis,USA,EUA,Verenigde Staten van Amerika,Estados Unidos,Stati Uniti d'America,美国
+Ukraine,უკრაინა,Ukrayna,Ukraine,Ukraine,Ucrânia,Oekraïne,Ucrania,Ucraina,乌克兰
+Vatican City,ვატიკანი,Vatikan Şehri,Cité du Vatican,Vatikanstadt,Cidade do Vaticano,Vaticaanstad,Ciudad del Vaticano,Città del Vaticano,梵蒂冈城
+Vietnam,ვიეტნამი,Vietnam,Viêt-Nam,Vietnam,Vietnã,Vietnam,Vietnam,Vietnam,越南
+Angola,ანგოლა,Angora,Angola,Angola,Angola,Angola,Angola,angola,安哥拉
+Antarctica,ანტარქტიკა,Antarktika,Antarctique,Antarktika,Antártica,Antarctica,Antártida,Antartide,南极洲
+French Southern and Antarctic Lands,საფრანგეთის სამხრეთული და ანტარქტიდული ტერიტორია,Fransız Güney ve Antarktik,Français Terres Australes et Antarctiques,Französisch Süd- und Antarktisgebiete,Franceses do Sul e Antártica,Franse Zuidelijke en Antarctische gebieden,Meridional francés y Tierras antárticas,Terre australi e antartiche,法国南部和南极领地
+Burundi,ბურუნდი,Burundi,Burundi,Burundi,Burundi,Boeroendi,Burundi,Burundi,布隆迪
+Benin,ბენინი,Benin,Bénin,Benin,Benin,Benin,Benin,Benin,贝宁
+The Bahamas,ბაჰამები,Bahamalar,Les Bahamas,Die Bahamas,As Bahamas,De Bahamas,Las Bahamas,Le Bahamas,巴哈马
+Belize,ბელიზი,Belize,Belize,Belize,Belize,Belize,Belice,Belize,伯利兹
+Botswana,ბოტსვანა,Botsvana,Botswana,Botswana,Botswana,Botswana,Botswana,Botswana,博茨瓦纳
+Republic of the Congo,კონგოს რესპუბლიკა,Kongo Cumhuriyeti,République du Congo,Republik Kongo,República do Congo,Republiek Congo,República del Congo,Repubblica del Congo,刚果民主共和国
+Northern Cyprus,ჩრდილოეთ კვიპროსის,Kuzey Kıbrıs,Chypre du Nord,Nord-Zypern,Norte do Chipre,Noord-Cyprus,El norte de Chipre,Cipro del Nord,北塞浦路斯
+Djibouti,ჯიბუტი,Cibuti,Djibouti,Dschibuti,Djibouti,Djibouti,Djibouti,Gibuti,吉布提
+Eritrea,ერიტრეა,Eritre,Érythrée,Eritrea,Eritrea,Eritrea,Eritrea,l'Eritrea,厄立特里亚
+Fiji,ფიჯი,Fiji,Fidji,Fidschi,Fiji,Fiji,Fiji,Fiji,斐
+Falkland Islands,ფოლკლენდის კუნძულები,Falkland adaları,les îles Falkland,Falkland Inseln,Ilhas Falkland,Falkland Eilanden,Islas Malvinas,Isole Falkland,福克兰群岛
+Gambia,გამბია,Gambiya,Gambie,Gambia,Gâmbia,Gambia,Gambia,Gambia,冈比亚
+Guinea Bissau,გვინეა-ბისაუ,Gine Bissau,la Guinée-Bissau,Guinea-Bissau,Guiné-Bissau,Guinee-Bissau,Guinea Bissau,Guinea-Bissau,几内亚比绍
+Greenland,გრენლანდია,Grönland,Groenland,Grönland,Groenlândia,Groenland,Groenlandia,Groenlandia,格陵兰
+Haiti,ჰაიტი,Haiti,Haïti,Haiti,Haiti,Haïti,Haití,Haiti,海地
+Kyrgyzstan,ყირგიზეთი,Kırgızistan,Kirghizistan,Kirgisistan,Quirguistão,Kirgizië,Kirguizistán,Kyrgyzstan,吉尔吉斯斯坦
+Laos,ლაოსი,Laos,Laos,Laos,Laos,Laos,Laos,Laos,老挝
+Liberia,ლიბერია,Liberya,Libéria,Liberia,Libéria,Liberia,Liberia,Liberia,利比里亚
+Libya,ლიბია,Libya,Libye,Libyen,Líbia,Libië,Libia,Libia,利比亚
+Lesotho,ლესოტო,Lesotho,Lesotho,Lesotho,Lesoto,Lesotho,Lesoto,Lesoto,莱索托
+Madagascar,მადაგასკარი,Madagaskar,Madagascar,Madagaskar,Madagáscar,Madagascar,Madagascar,Madagascar,马达加斯加
+Mali,მალი,Mali,Mali,Mali,Mali,Mali,mali,Mali,马里
+Myanmar,მიანმა,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,Myanmar,缅甸
+Montenegro,მონტენეგრო,Karadağ,Monténégro,Montenegro,Montenegro,Montenegro,Montenegro,Montenegro,黑山
+Mozambique,მოზამბიკი,Mozambik,Mozambique,Mosambik,Moçambique,Mozambique,Mozambique,Mozambico,莫桑比克
+Malawi,მალავი,Malawi,Malawi,Malawi,Malavi,Malawi,Malawi,Malawi,马拉维
+New Caledonia,ახალი კალედონია,Yeni Kaledonya,Nouvelle Calédonie,Neu-Kaledonien,Nova Caledônia,Nieuw-Caledonië,Nueva Caledonia,Nuova Caledonia,新喀里多尼亚
+Niger,ნიგერია,Nijer,Niger,Niger,Níger,Niger,Níger,Niger,尼日尔
+Nicaragua,ნიკარაგუა,Nikaragua,Nicaragua,Nicaragua,Nicarágua,Nicaragua,Nicaragua,Nicaragua,尼加拉瓜
+Papua New Guinea,პაპუა ახალი გვინეა,Papua Yeni Gine,Papouasie Nouvelle Guinée,Papua Neu-Guinea,Papua Nova Guiné,Papoea-Nieuw-Guinea,Papúa Nueva Guinea,Papua Nuova Guinea,巴布亚新几内亚
+Puerto Rico,პუერტო რიკო,Porto Riko,Porto Rico,Puerto Rico,Porto Rico,Puerto Rico,Puerto Rico,Porto Rico,波多黎各
+North Korea,ჩრდილოეთ კორეა,Kuzey Kore,Corée du Nord,Nord Korea,Coreia do Norte,Noord Korea,Corea del Norte,Corea del nord,北朝鲜
+Western Sahara,დასავლეთ საჰარას,Batı Sahra,Sahara occidental,Westsahara,Saara Ocidental,Westelijke Sahara,Sahara Occidental,Sahara occidentale,撒哈拉沙漠西部
+South Sudan,სამხრეთ სუდანი,Güney Sudan,Soudan du sud,Südsudan,Sudão do Sul,Zuid Soedan,Sudán del Sur,Sudan del Sud,南苏丹
+Solomon Islands,სოლომონის კუნძულები,Solomon Adaları,Les îles Salomon,Salomon-Inseln,Ilhas Salomão,Solomon eilanden,Islas Salomón,Isole Salomone,所罗门群岛
+Sierra Leone,სიერა ლეონე,Sierra Leone,Sierra Leone,Sierra Leone,Serra Leoa,Sierra Leone,Sierra Leona,Sierra Leone,塞拉利昂
+El Salvador,ელ-სალვადორი,El Salvador,Le Salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,萨尔瓦多
+Somaliland,სომალის მიწა,Somaliland,Somaliland,Somali,Somaliland,Somaliland,Somalilandia,Somaliland,索马里兰
+Somalia,სომალი,Somali,Somalie,Somalia,Somália,Somalië,Somalia,Somalia,索马里
+Swaziland,სვაზილენდი,Svaziland,Swaziland,Swasiland,Suazilândia,Swaziland,Swazilandia,Swaziland,斯威士兰
+Syria,სირია,Suriye,Syrie,Syrien,Síria,Syrië,Siria,Siria,叙利亚
+Chad,ჩადი,Çad,Tchad,Tschad,Chade,Tsjaad,Chad,Chad,乍得
+Tajikistan,ტაჯიკეთი,Tacikistan,Tadjikistan,Tadschikistan,Tadjiquistão,Tadzjikistan,Tayikistán,Tajikistan,塔吉克斯坦
+Turkmenistan,თურქმენეთი,Türkmenistan,Turkménistan,Turkmenistan,Turcomenistão,Turkmenistan,Turkmenistán,Turkmenistan,土库曼斯坦
+East Timor,აღმოსავლეთ ტიმორი,Doğu Timor,Timor oriental,Osttimor,Timor Leste,Oost Timor,Timor del Este,Timor Est,东帝汶
+United Republic of Tanzania,ტანზანიის გაერთიანებული რესპუბლიკა,Tanzanya Birleşik Cumhuriyeti,République-Unie de Tanzanie,Vereinigte Republik Tansania,República Unida da Tanzânia,Verenigde Republiek Tanzania,República Unida de Tanzania,Repubblica Unita di Tanzania,坦桑尼亚联合共和国
+Uganda,უგანდა,Uganda,Ouganda,Uganda,Uganda,Oeganda,Uganda,Uganda,乌干达
+Vanuatu,ვანუატუ,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,瓦努阿图
+West Bank,დასავლეთ სანაპირო,Batı Bankası,banque de l'Ouest,Westjordanland,Cisjordânia,Westoever,Banco Oeste,Cisgiordania,西方银行
+Yemen,იემენი,Yemen,Yémen,Jemen,Iémen,Jemen,Yemen,yemen,也门
+Zambia,ზამბია,Zambiya,Zambie,Sambia,Zâmbia,Zambia,Zambia,Zambia,赞比亚
+Zimbabwe,ზიმბაბვე,Zimbabve,Zimbabwe,Zimbabwe,Zimbábue,Zimbabwe,Zimbabue,Zimbabwe,津巴布韦
+Namibia,ნამიბია,Namibya,Namibie,Namibia,Namíbia,Namibië,Namibia,Namibia,纳米比亚
+Central African Republic,ცენტ. აფრ. რესპ.,Orta Afrika Cumhuriyeti,République centrafricaine,Zentralafrikanische Republik,República Centro-Africano,Centraal Afrikaanse Republiek,República Centroafricana,Repubblica Centrafricana,中非共和国
+Ghana,განა,Gana,Ghana,Ghana,Gana,Ghana,Ghana,Ghana,加纳
+Mauritania,მავრიტანია,Moritanya,Mauritanie,Mauretanien,Mauritânia,Mauritanië,Mauritania,Mauritania,毛里塔尼亚
+Kosovo,კოსოვო,Kosova,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,科索沃
+rwanda,რუანდა,ruanda,Rwanda,rwanda,Ruanda,Rwanda,Ruanda,Ruanda,卢旺达
+guatemala,გვატემალა,guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,危地马拉
+uzbekistan,უზბეკეთი,Özbekistan,Uzbekistan,Usbekistan,Uzbequistão,Oezbekistan,Uzbekistán,Uzbekistan,乌兹别克斯坦
+barbados,ბარბადოსი,barbados,barbade,Barbados,barbados,Barbados,barbados,barbados,巴巴多斯
+martinique,მარტინიკე,martinique,Martinique,Martinique,martinica,martinique,Martinica,MARTINICA,马提尼克
+seychelles,სეიშელი,seyşeller,les Seychelles,seychelles,seychelles,Seychellen,seychelles,Seychelles,塞舌尔
+trinidad and tobago,ტრინიდადი და ტობაგო,Trinidad ve Tobago,Trinité-et-Tobago,Trinidad und Tobago,Trinidad e Tobago,Trinidad en Tobago,Trinidad y Tobago,Trinidad e Tobago,特立尼达和多巴哥
+the gambia,გამბია,Gambiya,gambie,die gambia,Gâmbia,Gambia,Gambia,Gambia,冈比亚
