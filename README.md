@@ -30,3 +30,8 @@ Clicking on country will recalculate statistics for clicked country
 
 Move range slider to travel through time
 ![](https://user-images.githubusercontent.com/6873202/77315554-2f1d0200-6d21-11ea-94b7-d6f5a97134f9.gif)
+
+## 6. Setting current measure for statistics
+Click statistics widget to change measure
+
+![](https://user-images.githubusercontent.com/6873202/77315950-edd92200-6d21-11ea-9a84-6b958c5c6f77.gif)
