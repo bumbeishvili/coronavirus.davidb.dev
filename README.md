@@ -25,3 +25,8 @@ Clicking globe will recalculate stats based on clicked continent
 Clicking on country will recalculate statistics for clicked country
 
 ![](https://user-images.githubusercontent.com/6873202/77314594-638fbe80-6d1f-11ea-88de-3786bb96e151.gif)
+
+## 5. Travelling through time
+
+Move range slider to travel through time
+![](https://user-images.githubusercontent.com/6873202/77315554-2f1d0200-6d21-11ea-94b7-d6f5a97134f9.gif)
