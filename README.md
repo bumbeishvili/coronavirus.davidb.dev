@@ -35,3 +35,21 @@ Move range slider to travel through time
 Click statistics widget to change measure
 
 ![](https://user-images.githubusercontent.com/6873202/77315950-edd92200-6d21-11ea-9a84-6b958c5c6f77.gif)
+
+## 6. Tooltip
+
+Rapidly see stats for each country upon hover over
+![](https://user-images.githubusercontent.com/6873202/77316754-68567180-6d23-11ea-8083-ee20986485d0.gif)
+
+## 7. Prediction
+If applicable, based on data, we can see prediction points with R Squared more than 0.992. Each point means one day. Prediction is made using order 3 polygonial regression 
+
+![](https://user-images.githubusercontent.com/6873202/77316788-77d5ba80-6d23-11ea-9b88-e105ced80b86.png)
+
+## 8. Ordering countries on each measure 
+Scroll  sidebar to see descendingly ordered measure values
+![](https://user-images.githubusercontent.com/6873202/77317157-19f5a280-6d24-11ea-81f0-04a504d00a68.gif)
+
+## 9 . Mobile friendly
+
+![](https://user-images.githubusercontent.com/6873202/77318444-8376b080-6d26-11ea-87f1-0b0b447b2252.gif)
