@@ -17,4 +17,11 @@ Each user sees customized language and content for it's country
 
 ## 3. Continent level statistics
 Clicking globe will recalculate stats based on clicked continent
+
 ![](https://user-images.githubusercontent.com/6873202/77314208-a3a27180-6d1e-11ea-9daa-daadd2f95546.gif)
+
+## 4. Country Level statistics
+
+Clicking on country will recalculate statistics for clicked country
+
+![](https://user-images.githubusercontent.com/6873202/77314594-638fbe80-6d1f-11ea-88de-3786bb96e151.gif)
