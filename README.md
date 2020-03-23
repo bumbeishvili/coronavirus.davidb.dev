@@ -1,6 +1,10 @@
 
 https://coronavirus.davidb.dev/
 
+<a href="https://coronavirus.davidb.dev">
+  <img src="https://user-images.githubusercontent.com/6873202/77321424-9b9cfe80-6d2b-11ea-9466-99b0c0531037.png" />
+</a>
+
 
 ## 1. Live data 
 Updated in every 15 m.
