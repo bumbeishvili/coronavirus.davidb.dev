@@ -5,6 +5,8 @@
 ## 1. Live data 
 Updated in every 15 m.
 
+![](https://user-images.githubusercontent.com/6873202/77314367-f714bf80-6d1e-11ea-9da1-4694186a108b.png)
+
 ## 2. User Location driven data content
 
 Platform is available for more than 20 language. Language is automatically determined from ip
