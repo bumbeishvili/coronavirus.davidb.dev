@@ -51,7 +51,8 @@ If applicable, based on data, we can see prediction points with R Squared more t
 ![](https://user-images.githubusercontent.com/6873202/77316788-77d5ba80-6d23-11ea-9b88-e105ced80b86.png)
 
 ## 8. Ordering countries on each measure 
-Scroll  sidebar to see descendingly ordered measure values
+Scroll  sidebar to see descendingly ordered measure values. 
+
 ![](https://user-images.githubusercontent.com/6873202/77317157-19f5a280-6d24-11ea-81f0-04a504d00a68.gif)
 
 ## 9 . Mobile friendly
