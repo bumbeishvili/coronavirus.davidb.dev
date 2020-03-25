@@ -34,11 +34,11 @@ new cases,ახალი შემთხვ.,yeni vaka,nouveaux cas,Neuerkranku
 total cases,ყველა შემთხვ.,toplam vaka,Le total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali,总病例,totale tilfeller,totala antal fall,samlede sager,celkové případy,Wszystkich przypadków,συνολικά περιπτώσεις,総症例,총 경우
 January,იანვარი,Ocak,janvier,Januar,janeiro,januari,enero,gennaio,一月,januar,januari,januar,leden,styczeń,Ιανουάριος,1月,일월
 February,თებერვალი,Şubat,février,Februar,fevereiro,februari,febrero,febbraio,二月,februar,februari,februar,Únor,luty,Φεβρουάριος,2月,이월
-March,მარტი,Mart,Mars,März,marcha,maart,marzo,marzo,游行,mars,Mars,marts,březen,Marsz,Μάρτιος,行進,행진
+March,მარტი,Mart,Mars,März,marcha,maart,marzo,marzo,三月,mars,Mars,marts,březen,Marsz,Μάρτιος,行進,행진
 April,აპრილი,Nisan,avril,April,abril,april,abril,aprile,四月,april,april,April,duben,kwiecień,Απρίλιος,四月,4 월
 May,მაისი,Mayıs,Mai,Kann,Pode,mei,Mayo,Maggio,可以,Kan,Maj,Kan,Smět,Może,Ενδέχεται,五月,할 수있다
 June,ივნისი,Haziran,juin,Juni,Junho,juni,junio,giugno,六月,juni,juni,juni,červen,czerwiec,Ιούνιος,六月,유월
-Jule,ივლისი,Jule,Jule,Jule,Jule,Jule,Jule,Jule,巨乐,jule,jule,Jule,Jule,Jule,Jule,ジュール,쥴
+July,ივლისი,Temmuz,juillet,Juli,Julho,juli,julio,luglio,七月,juli,juli,juli,červenec,lipiec,Ιούλιος,七月,칠월
 August,აგვისტო,Ağustos,août,August,agosto,augustus,agosto,agosto,八月,august,augusti,august,srpen,sierpień,Αύγουστος,八月,팔월
 Mauritius,მავრიტანია,Mauritius,Ile Maurice,Mauritius,Mauritius,Mauritius,Isla mauricio,Mauritius,毛里求斯,Mauritius,Mauritius,Mauritius,Mauritius,Mauritius,Μαυρίκιος,モーリシャス,모리셔스
 September,სექტემბერი,Eylül,septembre,September,setembro,september,septiembre,settembre,九月,september,september,september,září,wrzesień,Σεπτέμβριος,九月,구월
@@ -50,7 +50,7 @@ Albania,ალბანეთი,Arnavutluk,Albanie,Albanien,Albânia,Albanië,A
 Algeria,ალჯირი,Cezayir,Algérie,Algerien,Argélia,Algerije,Argelia,algeria,阿尔及利亚,Algerie,algeriet,Algeriet,Alžírsko,Algieria,Αλγερία,アルジェリア,알제리
 Andorra,ანდორა,Andorra,Andorre,Andorra,Andorra,Andorra,Andorra,Andorra,安道尔,Andorra,andorra,Andorra,Andorra,Andora,Ανδόρα,アンドラ,안도라
 Antigua and Barbuda,ანტიგუა და ბარბუდა,Antigua ve Barbuda,Antigua-et-Barbuda,Antigua und Barbuda,Antígua e Barbuda,Antigua en Barbuda,Antigua y Barbuda,Antigua e Barbuda,安提瓜和巴布达,Antigua og Barbuda,Antigua och Barbuda,Antigua og Barbuda,Antigua a Barbuda,Antigua i Barbuda,Αντίγκουα και Μπαρμπούντα,アンティグア・バーブーダ,앤티가 바부 다
-Argentina,არგენტინა,Arjantin,Argentine,,Argentina,Argentinië,Argentina,Argentina,阿根廷,Argentina,argentina,Argentina,Argentina,Argentyna,Αργεντίνη,アルゼンチン,아르헨티나
+Argentina,არგენტინა,Arjantin,Argentine,Argentinien,Argentina,Argentinië,Argentina,Argentina,阿根廷,Argentina,argentina,Argentina,Argentina,Argentyna,Αργεντίνη,アルゼンチン,아르헨티나
 Armenia,სომხეთი,Ermenistan,Arménie,Armenien,Armênia,Armenië,Armenia,Armenia,亚美尼亚,Armenia,Armenien,Armenien,Arménie,Armenia,Αρμενία,アルメニア,아르메니아
 Aruba,არუბა,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,aruba,阿鲁巴,Aruba,Aruba,Aruba,Aruba,Aruba,Αρούμπα,アルバ,아루바
 Australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia,澳大利亚,Australia,Australien,Australien,Austrálie,Australia,Αυστραλία,オーストラリア,호주
@@ -163,7 +163,7 @@ Taiwan,ტაივანი,Tayvan,Taïwan,Taiwan,Taiwan,Taiwan,Taiwán,Taiwan,
 Thailand,ტაილანდი,Tayland,Thaïlande,Thailand,Tailândia,Thailand,Tailandia,Tailandia,泰国,Thailand,Thailand,Thailand,Thajsko,Tajlandia,Ταϊλάνδη,タイ,태국
 Togo,ტოგო,Gitmek,Aller,Gehen,Ir,Gaan,Ir,Andare,多哥,Å gå,Togo,At gå,Jít,Iść,Να πάω,トーゴ,토고
 Tunisia,ტუნისი,Tunus,Tunisie,Tunesien,Tunísia,Tunesië,Túnez,Tunisia,突尼斯,Tunisia,tunisien,Tunesien,Tunisko,Tunezja,Τυνησία,チュニジア,튀니지
-Turkey,თურქეთი,Türkiye,dinde,Truthahn,Peru,kalkoen,pavo,tacchino,火鸡,Tyrkia,Kalkon,Kalkun,krocan,indyk,Τουρκία,七面鳥,터키
+Turkey,თურქეთი,Türkiye,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey
 UAE,არაბთა საემირობი,BAE,Émirats arabes unis,UAE,UAE,VAE,EAU,Emirati Arabi Uniti,阿联酋,UAE,UAE,UAE,UAE,ZEA,ΗΑΕ,UAE,아랍 에미리트
 UK,დიდი ბრიტანეთი,UK,Royaume-Uni,Vereinigtes Königreich,Reino Unido,UK,Reino Unido,UK,联合王国,Storbritannia,Storbritannien,UK,Spojené království,UK,Ηνωμένο Βασίλειο,英国,영국
 USA,აშშ,Amerika Birleşik Devletleri,Etats-Unis,USA,EUA,Verenigde Staten van Amerika,Estados Unidos,Stati Uniti d'America,美国,USA,USA,USA,Spojené státy americké,USA,ΗΠΑ,米国,미국
