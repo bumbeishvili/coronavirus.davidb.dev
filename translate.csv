@@ -9,11 +9,11 @@ Pause,პაუზა,Duraklat,Pause,Pause,Pausa,Pauze,Pausa,Pausa,暂停,Pause,
 play,დრო,zaman,temps,Zeit,Tempo,tijd,hora,play,时间,spille,spela,Spil,hrát si,grać,παίζω,演奏する,플레이
 cases,ყველა შემთხვ.,vakalar,cas,Fälle,casos,gevallen,casos,casi,例,saker,fall,sager,případy,przypadki,περιπτώσεις,ケース,경우
 deaths,გარდაიცვალა,ölümler,des morts,Todesfälle,mortes,sterfgevallen,muertes,morti,死亡,dødsfall,dödsfall,dødsfald,úmrtí,zgonów,θάνατοι,死亡,사망
-recovered,გამოჯანმრთელდა,geri kazanılan,rétabli,zurückgewonnen,recuperado,hersteld,recuperado,recuperato,恢复,gjenvunnet,utvanns,inddrives,zpět,odzyskany,ανάκτηση,回復,회복 된
+recovered,გამოჯანმრთელდა,geri kazanılan,rétabli,zurückgewonnen,recuperados,hersteld,recuperado,recuperato,恢复,gjenvunnet,utvanns,inddrives,zpět,odzyskany,ανάκτηση,回復,회복 된
 death rate,სიკვდილიანობა,ölüm oranı,taux de mortalité,Todesrate,índice de mortalidade,sterftecijfer,índice de mortalidad,tasso di mortalità,死亡率,dødsrate,dödstal,døds rate,úmrtnost,śmiertelność,θνησιμότητα,死亡率,사망률
 corona virus,კორონა ვირუსი,korona virüsü,virus corona,Coronavirus,vírus corona,coronavirus,virus de la corona,corona virus,新冠病毒,coronavirus,coronavirus,corona-virus,KORONAVIRUS,wirus corona,κορωνοϊός,コロナウイルス,코로나 바이러스
-diff from,სხვაობა,dan fark,diff de,diff aus,diff de,diff van,diff,diff da,从差异,diff fra,diff från,diff fra,diff od,Różnica względem,διαφορά από,からの差分,에서 DIFF
-diff,სხვაობა,diff,diff,diff,diff,diff,diff,diff,DIFF,diff,diff,diff,diff,diff,diff,差分,DIFF
+diff from,სხვაობა,dan fark,difereça de,diff aus,diff de,diff van,diff,diff da,从差异,diff fra,diff från,diff fra,diff od,Różnica względem,διαφορά από,からの差分,에서 DIFF
+diff,სხვაობა,diff,diff,diff,diferença,diff,diff,diff,DIFF,diff,diff,diff,diff,diff,diff,差分,DIFF
 top,top,üst,Haut,oben,topo,top,parte superior,superiore,最佳,topp,topp,top,horní,Top,μπλουζα,上,상단
 world,მსოფლიო,Dünya,monde,Welt,mundo,wereld,mundo,mondo,世界,verden,värld,verden,svět,świat,κόσμος,世界,세계
 europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa,欧洲,Europa,Europa,Europa,Evropa,Europa,Ευρώπη,ヨーロッパ,유럽
@@ -34,15 +34,15 @@ new cases,ახალი შემთხვ.,yeni vaka,nouveaux cas,Neuerkranku
 total cases,ყველა შემთხვ.,toplam vaka,Le total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali,总病例,totale tilfeller,totala antal fall,samlede sager,celkové případy,Wszystkich przypadków,συνολικά περιπτώσεις,総症例,총 경우
 January,იანვარი,Ocak,janvier,Januar,janeiro,januari,enero,gennaio,一月,januar,januari,januar,leden,styczeń,Ιανουάριος,1月,일월
 February,თებერვალი,Şubat,février,Februar,fevereiro,februari,febrero,febbraio,二月,februar,februari,februar,Únor,luty,Φεβρουάριος,2月,이월
-March,მარტი,Mart,Mars,März,marcha,maart,marzo,marzo,三月,mars,Mars,marts,březen,Marsz,Μάρτιος,行進,행진
+March,მარტი,Mart,Mars,März,março,maart,marzo,marzo,三月,mars,Mars,marts,březen,Marsz,Μάρτιος,行進,행진
 April,აპრილი,Nisan,avril,April,abril,april,abril,aprile,四月,april,april,April,duben,kwiecień,Απρίλιος,四月,4 월
-May,მაისი,Mayıs,Mai,Kann,Pode,mei,Mayo,Maggio,可以,Kan,Maj,Kan,Smět,Może,Ενδέχεται,五月,할 수있다
-June,ივნისი,Haziran,juin,Juni,Junho,juni,junio,giugno,六月,juni,juni,juni,červen,czerwiec,Ιούνιος,六月,유월
-July,ივლისი,Temmuz,juillet,Juli,Julho,juli,julio,luglio,七月,juli,juli,juli,červenec,lipiec,Ιούλιος,七月,칠월
+May,მაისი,Mayıs,Mai,Kann,maio,mei,Mayo,Maggio,可以,Kan,Maj,Kan,Smět,Może,Ενδέχεται,五月,할 수있다
+June,ივნისი,Haziran,juin,Juni,junho,juni,junio,giugno,六月,juni,juni,juni,červen,czerwiec,Ιούνιος,六月,유월
+July,ივლისი,Temmuz,juillet,Juli,julho,juli,julio,luglio,七月,juli,juli,juli,červenec,lipiec,Ιούλιος,七月,칠월
 August,აგვისტო,Ağustos,août,August,agosto,augustus,agosto,agosto,八月,august,augusti,august,srpen,sierpień,Αύγουστος,八月,팔월
 Mauritius,მავრიტანია,Mauritius,Ile Maurice,Mauritius,Mauritius,Mauritius,Isla mauricio,Mauritius,毛里求斯,Mauritius,Mauritius,Mauritius,Mauritius,Mauritius,Μαυρίκιος,モーリシャス,모리셔스
 September,სექტემბერი,Eylül,septembre,September,setembro,september,septiembre,settembre,九月,september,september,september,září,wrzesień,Σεπτέμβριος,九月,구월
-October,ოქტომბერი,Ekim,octobre,Oktober,Outubro,oktober,octubre,ottobre,十月,oktober,oktober,oktober,říjen,październik,Οκτώβριος,10月,십월
+October,ოქტომბერი,Ekim,octobre,Oktober,outubro,oktober,octubre,ottobre,十月,oktober,oktober,oktober,říjen,październik,Οκτώβριος,10月,십월
 November,ნოემბერი,Kasım,novembre,November,novembro,november,noviembre,novembre,十一月,november,november,november,listopad,listopad,Νοέμβριος,十一月,십일월
 December,დეკემბერი,Aralık,décembre,Dezember,dezembro,december,diciembre,dicembre,十二月,desember,december,december,prosinec,grudzień,Δεκέμβριος,12月,12 월
 Afghanistan,ავღანეთი,Afganistan,Afghanistan,Afghanistan,Afeganistão,Afghanistan,Afganistán,afghanistan,阿富汗,Afghanistan,Afghanistan,Afghanistan,Afghánistán,Afganistan,Αφγανιστάν,アフガニスタン,아프가니스탄
