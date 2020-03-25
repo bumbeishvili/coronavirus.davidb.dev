@@ -6,12 +6,12 @@ help with translation,თარგმნაში დახმარება,ç
 from yesterday,სხვაობა წინა დღესთან,dünden,d'hier,von gestern,de ontem,van gisteren,de ayer,da ieri,从昨天,fra i går,från igår,fra i går,od včerejška,od wczoraj,από χθες,昨日から,어제
 yesterday,წინა დღის,dün,hier,gestern,ontem,gisteren,ayer,ieri,昨天,i går,i går,i går,včera,wczoraj,εχθές,昨日,어제
 Pause,პაუზა,Duraklat,Pause,Pause,Pausa,Pauze,Pausa,Pausa,暂停,Pause,Paus,Pause,Pauza,Pauza,Παύση,休止,중지
-play,დრო,zaman,temps,Zeit,Tempo,tijd,hora,play,时间,spille,spela,Spil,hrát si,grać,παίζω,演奏する,플레이
+play,დრო,zaman,temps,Zeit,Tempo,tijd,hora,play,时间,spille,spela,Spil,hrát si,odtwarzaj,παίζω,演奏する,플레이
 cases,ყველა შემთხვ.,vakalar,cas,Fälle,casos,gevallen,casos,casi,例,saker,fall,sager,případy,przypadki,περιπτώσεις,ケース,경우
 deaths,გარდაიცვალა,ölümler,des morts,Todesfälle,mortes,sterfgevallen,muertes,morti,死亡,dødsfall,dödsfall,dødsfald,úmrtí,zgonów,θάνατοι,死亡,사망
-recovered,გამოჯანმრთელდა,geri kazanılan,rétabli,zurückgewonnen,recuperados,hersteld,recuperado,recuperato,恢复,gjenvunnet,utvanns,inddrives,zpět,odzyskany,ανάκτηση,回復,회복 된
+recovered,გამოჯანმრთელდა,geri kazanılan,rétabli,zurückgewonnen,recuperados,hersteld,recuperado,recuperato,恢复,gjenvunnet,utvanns,inddrives,zpět,wyzdrowień,ανάκτηση,回復,회복 된
 death rate,სიკვდილიანობა,ölüm oranı,taux de mortalité,Todesrate,índice de mortalidade,sterftecijfer,índice de mortalidad,tasso di mortalità,死亡率,dødsrate,dödstal,døds rate,úmrtnost,śmiertelność,θνησιμότητα,死亡率,사망률
-corona virus,კორონა ვირუსი,korona virüsü,virus corona,Coronavirus,vírus corona,coronavirus,virus de la corona,corona virus,新冠病毒,coronavirus,coronavirus,corona-virus,KORONAVIRUS,wirus corona,κορωνοϊός,コロナウイルス,코로나 바이러스
+corona virus,კორონა ვირუსი,korona virüsü,virus corona,Coronavirus,vírus corona,coronavirus,virus de la corona,corona virus,新冠病毒,coronavirus,coronavirus,corona-virus,KORONAVIRUS,koronawirus,κορωνοϊός,コロナウイルス,코로나 바이러스
 diff from,სხვაობა,dan fark,difereça de,diff aus,diff de,diff van,diff,diff da,从差异,diff fra,diff från,diff fra,diff od,Różnica względem,διαφορά από,からの差分,에서 DIFF
 diff,სხვაობა,diff,diff,diff,diferença,diff,diff,diff,DIFF,diff,diff,diff,diff,diff,diff,差分,DIFF
 top,top,üst,Haut,oben,topo,top,parte superior,superiore,最佳,topp,topp,top,horní,Top,μπλουζα,上,상단
@@ -19,24 +19,24 @@ world,მსოფლიო,Dünya,monde,Welt,mundo,wereld,mundo,mondo,世界,ve
 europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa,欧洲,Europa,Europa,Europa,Evropa,Europa,Ευρώπη,ヨーロッパ,유럽
 asia,აზია,Asya,Asie,Asien,Ásia,Azië,Asia,Asia,亚洲,Asia,Asien,Asien,Asie,Azja,Ασία,アジア,아시아
 africa,აფრიკა,Afrika,Afrique,Afrika,África,Afrika,África,Africa,非洲,Afrika,afrika,Afrika,Afrika,Afryka,Αφρική,アフリカ,아프리카
-north america,ჩრდ. ამერიკა,Kuzey Amerika,Amérique du Nord,Nordamerika,América do Norte,Noord Amerika,Norteamérica,Nord America,北美,Nord Amerika,Nordamerika,Nordamerika,Severní Amerika,Ameryka północna,Βόρεια Αμερική,北米,북아메리카
+north america,ჩრდ. ამერიკა,Kuzey Amerika,Amérique du Nord,Nordamerika,América do Norte,Noord Amerika,Norteamérica,Nord America,北美,Nord Amerika,Nordamerika,Nordamerika,Severní Amerika,Ameryka Północna,Βόρεια Αμερική,北米,북아메리카
 south america,სამხ. ამერიკა,Güney Amerika,Amérique du Sud,Südamerika,América do Sul,Zuid-Amerika,Sudamerica,Sud America,南美洲,Sør Amerika,Sydamerika,Sydamerika,Jižní Amerika,Ameryka Południowa,νότια Αμερική,南アメリカ,남아메리카
 australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia,澳大利亚,Australia,Australien,Australien,Austrálie,Australia,Αυστραλία,オーストラリア,호주
 new deaths,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe sterfgevallen,nuevas muertes,nuovi decessi,新的死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové úmrtí,nowe zgony,νέα θανάτους,新しい死亡,새로운 사망
 new fatalities,ახალი მსხვერპლი,yeni ölümlerin,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,nuevas víctimas mortales,nuovi decessi,新死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové osudovosti,nowe ofiary śmiertelne,νέα θανάτων,新しい死亡,새로운 사망자
-total fatalities,გარდაცვლილთა რაოდ.,toplam can kaybı,nombre total de décès,insgesamt Todesfälle,fatalidades totais,totaal doden,el total de muertes,incidenti mortali totali,总死亡人数,totale dødsfall,totala dödsfall,samlede dødsfald,celkový počet obětí,Wszystkich ofiar śmiertelnych,συνολικά θανάτους,総死亡者,총 사망자 수
-total recovered,გამოჯანმრთელდა,toplam geri,totale récupérée,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato,总回复,totalt gjenvunnet,totala utvunna,samlede genvundet,celková zotavil,całkowita odzyskana,συνολική ανάκτηση,合計が回収しました,총 복구
+total fatalities,გარდაცვლილთა რაოდ.,toplam can kaybı,nombre total de décès,insgesamt Todesfälle,fatalidades totais,totaal doden,el total de muertes,incidenti mortali totali,总死亡人数,totale dødsfall,totala dödsfall,samlede dødsfald,celkový počet obětí,wszystkich ofiar śmiertelnych,συνολικά θανάτους,総死亡者,총 사망자 수
+total recovered,გამოჯანმრთელდა,toplam geri,totale récupérée,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato,总回复,totalt gjenvunnet,totala utvunna,samlede genvundet,celková zotavil,wszystkich wyzdrowień,συνολική ανάκτηση,合計が回収しました,총 복구
 death rates (%),სიკვდილიანობა (%),ölüm oranları (%),taux de mortalité (%),Todesraten (%),as taxas de mortalidade (%),sterftecijfers (%),las tasas de mortalidad (%),i tassi di mortalità (%),死亡率（％）,dødelighet (%),dödstal (%),dødeligheden (%),úmrtnost (%),śmiertelność (%),τα ποσοστά θανάτου (%),死亡率（％）,사망률 (%)
-fatality rate (%),სიკვდილიანობა (%),Ölüm oranı (%),taux de mortalité (%),Sterblichkeitsrate (%),índice de fatalidade (%),sterftecijfer (%),tasa de fatalidad (%),tasso di mortalità (%),死亡率（％）,dødelighet (%),dödligheten (%),dødeligheden (%),úmrtnost (%),Współczynnik śmiertelności (%),ποσοστό θνησιμότητας (%),死亡率（％）,치사율 (%)
+fatality rate (%),სიკვდილიანობა (%),Ölüm oranı (%),taux de mortalité (%),Sterblichkeitsrate (%),índice de fatalidade (%),sterftecijfer (%),tasa de fatalidad (%),tasso di mortalità (%),死亡率（％）,dødelighet (%),dödligheten (%),dødeligheden (%),úmrtnost (%),współczynnik śmiertelności (%),ποσοστό θνησιμότητας (%),死亡率（％）,치사율 (%)
 active cases,აქტიური შემთხვ.,aktif vakaları,cas actifs,aktive Fälle,casos ativos,actieve zaken,casos activos,casi attivi,活跃的情况下，,aktive saker,aktiva fall,aktive sager,aktivními případy,aktywnych przypadki,εκκρεμών υποθέσεων,アクティブの場合,활성화 된 경우
 existing cases,აქტიური შემთხვ.,varolan vakalar,les cas existants,Altfälle,casos existentes,bestaande gevallen,casos existentes,casi esistenti,现有案例,eksisterende tilfeller,existerande fall,eksisterende sager,stávající případy,istniejące przypadki,υπάρχουσες υποθέσεις,既存の例,기존의 경우
 new cases,ახალი შემთხვ.,yeni vaka,nouveaux cas,Neuerkrankungen,novos casos,nieuwe gevallen,nuevos casos,nuovi casi,新病例,nye tilfeller,nya fall,nye tilfælde,nových případů,nowych przypadków,νέες περιπτώσεις,新しいケース,새로운 사례
-total cases,ყველა შემთხვ.,toplam vaka,Le total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali,总病例,totale tilfeller,totala antal fall,samlede sager,celkové případy,Wszystkich przypadków,συνολικά περιπτώσεις,総症例,총 경우
+total cases,ყველა შემთხვ.,toplam vaka,Le total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali,总病例,totale tilfeller,totala antal fall,samlede sager,celkové případy,wszystkich przypadków,συνολικά περιπτώσεις,総症例,총 경우
 January,იანვარი,Ocak,janvier,Januar,janeiro,januari,enero,gennaio,一月,januar,januari,januar,leden,styczeń,Ιανουάριος,1月,일월
 February,თებერვალი,Şubat,février,Februar,fevereiro,februari,febrero,febbraio,二月,februar,februari,februar,Únor,luty,Φεβρουάριος,2月,이월
-March,მარტი,Mart,Mars,März,março,maart,marzo,marzo,三月,mars,Mars,marts,březen,Marsz,Μάρτιος,行進,행진
+March,მარტი,Mart,Mars,März,março,maart,marzo,marzo,三月,mars,Mars,marts,březen,marzec,Μάρτιος,行進,행진
 April,აპრილი,Nisan,avril,April,abril,april,abril,aprile,四月,april,april,April,duben,kwiecień,Απρίλιος,四月,4 월
-May,მაისი,Mayıs,Mai,Kann,maio,mei,Mayo,Maggio,可以,Kan,Maj,Kan,Smět,Może,Ενδέχεται,五月,할 수있다
+May,მაისი,Mayıs,Mai,Kann,maio,mei,Mayo,Maggio,可以,Kan,Maj,Kan,Smět,maj,Ενδέχεται,五月,할 수있다
 June,ივნისი,Haziran,juin,Juni,junho,juni,junio,giugno,六月,juni,juni,juni,červen,czerwiec,Ιούνιος,六月,유월
 July,ივლისი,Temmuz,juillet,Juli,julho,juli,julio,luglio,七月,juli,juli,juli,červenec,lipiec,Ιούλιος,七月,칠월
 August,აგვისტო,Ağustos,août,August,agosto,augustus,agosto,agosto,八月,august,augusti,august,srpen,sierpień,Αύγουστος,八月,팔월
@@ -82,7 +82,7 @@ Cuba,კუბა,Küba,Cuba,Kuba,Cuba,Cuba,Cuba,Cuba,古巴,Cuba,kuba,Cuba,Kuba
 Cyprus,კვიპროსი,Kıbrıs,Chypre,Zypern,Chipre,Cyprus,Chipre,Cipro,塞浦路斯,Kypros,cypern,Cypern,Kypr,Cypr,Κύπρος,キプロス,키프로스
 Czech Republic,ჩეხეთის რესპუბლიკა,Çek Cumhuriyeti,République Tchèque,Tschechische Republik,República Checa,Tsjechië,Republica checa,Repubblica Ceca,捷克共和国,Tsjekkisk Republikk,Tjeckien,Tjekkiet,Česká republika,Republika Czeska,Τσεχική Δημοκρατία,チェコ共和国,체코 공화국
 Denmark,დანია,Danimarka,Danemark,Dänemark,Dinamarca,Denemarken,Dinamarca,Danimarca,丹麦,Danmark,Danmark,Danmark,Dánsko,Dania,Δανία,デンマーク,덴마크
-Diamond Princess,საკრუიზო გემი,Elmas Prenses,diamond Princess,diamond Princess,diamond Princess,Diamond Princess,Diamond Princess,Diamond Princess,钻石公主号,Diamond Princess,Diamond Princess,Diamond Princess,Diamond Princess,diamond Princess,Diamond Princess,ダイヤモンドプリンセス,다이아몬드 프린세스
+Diamond Princess,საკრუიზო გემი,Elmas Prenses,diamond Princess,diamond Princess,diamond Princess,Diamond Princess,Diamond Princess,Diamond Princess,钻石公主号,Diamond Princess,Diamond Princess,Diamond Princess,Diamond Princess,Diamond Princess,Diamond Princess,ダイヤモンドプリンセス,다이아몬드 프린세스
 Dominican Republic,დომინიკის რესპუბლიკა,Dominik Cumhuriyeti,République Dominicaine,Dominikanische Republik,República Dominicana,Dominicaanse Republiek,República Dominicana,Repubblica Dominicana,多明尼加共和国,den dominikanske republikk,Dominikanska republiken,Dominikanske republik,Dominikánská republika,Republika Dominikany,Δομινικανή Δημοκρατία,ドミニカ共和国,도미니카 공화국
 Ecuador,ეკვადორი,Ekvador,Equateur,Ecuador,Equador,Ecuador,Ecuador,Ecuador,厄瓜多尔,Ecuador,ecuador,Ecuador,Ekvádor,Ekwador,Εκουαδόρ,エクアドル,에콰도르
 Egypt,ეგვიპტე,Mısır,Egypte,Ägypten,Egito,Egypte,Egipto,Egitto,埃及,Egypt,egypten,Egypten,Egypt,Egipt,Αίγυπτος,エジプト,이집트
@@ -123,8 +123,8 @@ Maldives,მალდივები,Maldivler,Maldives,Malediven,Maldivas,Maldi
 Malta,მალტა,Malta,Malte,Malta,Malta,Malta,Malta,Malta,马耳他,Malta,Malta,Malta,Malta,Malta,Μάλτα,マルタ,몰타
 Martinique,Martinique,Martinik,Martinique,Martinique,Martinique,Martinique,Martinica,Martinique,马提尼克,Martinique,Martinique,Martinique,Martinique,Martynika,Μαρτινίκα,マルティニーク,마르티니크
 Mexico,მექსიკა,Meksika,Mexique,Mexiko,México,Mexico,México,Messico,墨西哥,Mexico,mexico,Mexico,Mexiko,Meksyk,Μεξικό,メキシコ,멕시코
-Moldova,მოლდოვა,Moldova,Moldavie,Moldawien,Moldova,Moldavië,Moldavia,Moldova,摩尔多瓦,Moldova,Moldavien,Moldova,Moldavsko,Moldova,Μολδαβία,モルドバ,몰르 더바
-Monaco,მონაკო,Monako,Monaco,Monaco,Monaco,Monaco,Mónaco,Monaco,摩纳哥,Monaco,Monaco,Monaco,Monaco,Monaco,Μονακό,モナコ,모나코
+Moldova,მოლდოვა,Moldova,Moldavie,Moldawien,Moldova,Moldavië,Moldavia,Moldova,摩尔多瓦,Moldova,Moldavien,Moldova,Moldavsko,Mołdawia,Μολδαβία,モルドバ,몰르 더바
+Monaco,მონაკო,Monako,Monaco,Monaco,Monaco,Monaco,Mónaco,Monaco,摩纳哥,Monaco,Monaco,Monaco,Monaco,Monako,Μονακό,モナコ,모나코
 Mongolia,მონღოლეთი,Moğolistan,Mongolie,Mongolei,Mongólia,Mongolië,Mongolia,Mongolia,蒙古,Mongolia,mongoliet,Mongoliet,Mongolsko,Mongolia,Μογγολία,モンゴル,몽골리아
 Morocco,მოროკო,Fas,Maroc,Marokko,Marrocos,Marokko,Marruecos,Marocco,摩洛哥,Marokko,Marocko,Marokko,Maroko,Maroko,Μαρόκο,モロッコ,모로코
 Nepal,ნეპალი,Nepal,Népal,Nepal,Nepal,Nepal,Nepal,Nepal,尼泊尔,Nepal,nepal,Nepal,Nepál,Nepal,Νεπάλ,ネパール,네팔
@@ -161,9 +161,9 @@ Sweden,შვედეთი,İsveç,Suède,Schweden,Suécia,Zweden,Suecia,Svezi
 Switzerland,შვეიცარია,İsviçre,Suisse,Schweiz,Suíça,Zwitserland,Suiza,Svizzera,瑞士,Sveits,schweiz,Schweiz,Švýcarsko,Szwajcaria,Ελβετία,スイス,스위스
 Taiwan,ტაივანი,Tayvan,Taïwan,Taiwan,Taiwan,Taiwan,Taiwán,Taiwan,台湾,Taiwan,Taiwan,Taiwan,Taiwan,Tajwan,Ταϊβάν,台湾,대만
 Thailand,ტაილანდი,Tayland,Thaïlande,Thailand,Tailândia,Thailand,Tailandia,Tailandia,泰国,Thailand,Thailand,Thailand,Thajsko,Tajlandia,Ταϊλάνδη,タイ,태국
-Togo,ტოგო,Gitmek,Aller,Gehen,Ir,Gaan,Ir,Andare,多哥,Å gå,Togo,At gå,Jít,Iść,Να πάω,トーゴ,토고
+Togo,ტოგო,Gitmek,Aller,Gehen,Ir,Gaan,Ir,Andare,多哥,Å gå,Togo,At gå,Jít,Togo,Να πάω,トーゴ,토고
 Tunisia,ტუნისი,Tunus,Tunisie,Tunesien,Tunísia,Tunesië,Túnez,Tunisia,突尼斯,Tunisia,tunisien,Tunesien,Tunisko,Tunezja,Τυνησία,チュニジア,튀니지
-Turkey,თურქეთი,Türkiye,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey
+Turkey,თურქეთი,Türkiye,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turcja,Turkey,Turkey,Turkey
 UAE,არაბთა საემირობი,BAE,Émirats arabes unis,UAE,UAE,VAE,EAU,Emirati Arabi Uniti,阿联酋,UAE,UAE,UAE,UAE,ZEA,ΗΑΕ,UAE,아랍 에미리트
 UK,დიდი ბრიტანეთი,UK,Royaume-Uni,Vereinigtes Königreich,Reino Unido,UK,Reino Unido,UK,联合王国,Storbritannia,Storbritannien,UK,Spojené království,UK,Ηνωμένο Βασίλειο,英国,영국
 USA,აშშ,Amerika Birleşik Devletleri,Etats-Unis,USA,EUA,Verenigde Staten van Amerika,Estados Unidos,Stati Uniti d'America,美国,USA,USA,USA,Spojené státy americké,USA,ΗΠΑ,米国,미국
@@ -211,7 +211,7 @@ Solomon Islands,სოლომონის კუნძულები,Solomon 
 Sierra Leone,სიერა ლეონე,Sierra Leone,Sierra Leone,Sierra Leone,Serra Leoa,Sierra Leone,Sierra Leona,Sierra Leone,塞拉利昂,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leone,Σιέρρα Λεόνε,シエラレオネ,시에라 리온
 El Salvador,ელ-სალვადორი,El Salvador,Le Salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,萨尔瓦多,El Salvador,El Salvador,El Salvador,El Salvador,Salwador,Ελ Σαλβαδόρ,エルサルバドル,엘살바도르
 Somaliland,სომალის მიწა,Somaliland,Somaliland,Somali,Somaliland,Somaliland,Somalilandia,Somaliland,索马里兰,Somaliland,Somali,Somaliland,Somaliland,Somaliland,Σομαλιλάνδη,ソマリランド,소 말릴 란드
-Somalia,სომალი,Somali,Somalie,Somalia,Somália,Somalië,Somalia,Somalia,索马里,Somalia,Somalia,Somalia,Somálsko,Somali,Σομαλία,ソマリア,소말리아
+Somalia,სომალი,Somali,Somalie,Somalia,Somália,Somalië,Somalia,Somalia,索马里,Somalia,Somalia,Somalia,Somálsko,Somalia,Σομαλία,ソマリア,소말리아
 Swaziland,სვაზილენდი,Svaziland,Swaziland,Swasiland,Suazilândia,Swaziland,Swazilandia,Swaziland,斯威士兰,Swaziland,Swaziland,Swaziland,Svazijsko,Suazi,Σουαζιλάνδη,スワジランド,스와질랜드
 Syria,სირია,Suriye,Syrie,Syrien,Síria,Syrië,Siria,Siria,叙利亚,Syria,syrien,Syrien,Sýrie,Syria,Συρία,シリア,시리아
 Chad,ჩადი,Çad,Tchad,Tschad,Chade,Tsjaad,Chad,Chad,乍得,Tsjad,Chad,Tchad,Chad,Czad,Τσαντ,チャド,차드
@@ -221,7 +221,7 @@ East Timor,აღმოსავლეთ ტიმორი,Doğu Timor,Timor o
 United Republic of Tanzania,ტანზანიის გაერთიანებული რესპუბლიკა,Tanzanya Birleşik Cumhuriyeti,République-Unie de Tanzanie,Vereinigte Republik Tansania,República Unida da Tanzânia,Verenigde Republiek Tanzania,República Unida de Tanzania,Repubblica Unita di Tanzania,坦桑尼亚联合共和国,Tanzania,Tanzania,Forenede Republik Tanzania,Tanzánie,Zjednoczona Republika Tanzanii,Ενωμένη Δημοκρατία της Τανζανίας,タンザニア連合共和国,탄자니아 연합 공화국
 Uganda,უგანდა,Uganda,Ouganda,Uganda,Uganda,Oeganda,Uganda,Uganda,乌干达,Uganda,Uganda,Uganda,Uganda,Uganda,Ουγκάντα,ウガンダ,우간다
 Vanuatu,ვანუატუ,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,瓦努阿图,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Vanuatu,Βανουάτου,バヌアツ,바누아투
-West Bank,დასავლეთ სანაპირო,Batı Bankası,banque de l'Ouest,Westjordanland,Cisjordânia,Westoever,Banco Oeste,Cisgiordania,西方银行,Vestbanken,Västbanken,vest Bank,západní banka,Bank Zachodni,Δυτική τράπεζα,西岸,웨스트 뱅크
+West Bank,დასავლეთ სანაპირო,Batı Bankası,banque de l'Ouest,Westjordanland,Cisjordânia,Westoever,Banco Oeste,Cisgiordania,西方银行,Vestbanken,Västbanken,vest Bank,západní banka,Zachodni Brzeg,Δυτική τράπεζα,西岸,웨스트 뱅크
 Yemen,იემენი,Yemen,Yémen,Jemen,Iémen,Jemen,Yemen,yemen,也门,Jemen,jemen,Yemen,Jemen,Jemen,Γέμενη,イエメン,예멘
 Zambia,ზამბია,Zambiya,Zambie,Sambia,Zâmbia,Zambia,Zambia,Zambia,赞比亚,Zambia,zambia,Zambia,Zambie,Zambia,Ζάμπια,ザンビア,잠비아
 Zimbabwe,ზიმბაბვე,Zimbabve,Zimbabwe,Zimbabwe,Zimbábue,Zimbabwe,Zimbabue,Zimbabwe,津巴布韦,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwe,Ζιμπάμπουε,ジンバブエ,짐바브웨
