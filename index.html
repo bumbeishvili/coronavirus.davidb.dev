@@ -10,14 +10,16 @@
 <meta property="og:title" content="Covid-19 Live Update" />
 <meta property="og:description" content="Travelling through time to analyze corona virus spread" />
 
-<meta property="og:image" content="https://raw.githubusercontent.com/bumbeishvili/Assets/master/Other/Screen%20Shot%202020-03-23%20at%2017.49.37.png" />
+<meta property="og:image"
+  content="https://raw.githubusercontent.com/bumbeishvili/Assets/master/Other/Screen%20Shot%202020-03-23%20at%2017.49.37.png" />
 
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@dbumbeishvili">
 <meta name="twitter:title" content="Covid-19 Live Update">
 <meta name="twitter:description" content="Travelling through time to analyze corona virus spread">
-<meta name="twitter:image" content="https://raw.githubusercontent.com/bumbeishvili/Assets/master/Other/Screen%20Shot%202020-03-23%20at%2017.49.37.png">
+<meta name="twitter:image"
+  content="https://raw.githubusercontent.com/bumbeishvili/Assets/master/Other/Screen%20Shot%202020-03-23%20at%2017.49.37.png">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/black/pace-theme-big-counter.min.css" rel="stylesheet" /> -->
@@ -189,6 +191,7 @@
 
 
 
+
   a {
     color: #65A4B6;
   }
@@ -336,12 +339,18 @@
     margin-top: 5px;
   }
 
+  .div-number-14 {
+    position: fixed;
+    top: 3px;
+    right: 3px;
+  }
+
   select {
     display: inline-block;
     position: relative;
     overflow: hidden;
     height: 28px;
-    width: 105px;
+    width: 35px;
     background: #f2f2f2;
     border: 1px solid;
     border-color: white #f7f7f7 whitesmoke;
@@ -672,7 +681,7 @@
 
   document.querySelector('.notebook-content').innerHTML = notebook.modules[0].variables
     .filter(d => d)
-    .map((d, i) => ` <div ${i > 13 ? 'style="display:none"' : ''} class=" observable-wrapper div-number-${i}"></div>`)
+    .map((d, i) => ` <div ${i > 14 ? 'style="display:none"' : ''} class=" observable-wrapper div-number-${i}"></div>`)
     .join('');
 
   import { Inspector, Runtime } from "/runtime.js";
