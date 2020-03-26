@@ -1,19 +1,19 @@
 en,ge,tr,fr,de,pt,nl,es,it,cn,no,se,dk,cs,pl,gr,jp,kr
 now,ახლა,şimdi,maintenant,jetzt,agora,nu,ahora,adesso,现在,nå,nu,nu,Nyní,teraz,τώρα,今,지금
-rank,პოზიცია,rütbe,rang,Rang,classificação,rang,rango,rango,秩,rang,rang,rang,hodnost,ranga,τάξη,順位,계급
-venezuela,ვენესუელა,venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,委内瑞拉,venezuela,venezuela,venezuela,Venezuela,Wenezuela,Βενεζουέλα,ベネズエラ,베네수엘라
-help with translation,თარგმნაში დახმარება,çeviri ile yardım,aide à la traduction,Hilfe bei der Übersetzung,ajuda com tradução,hulp bij het vertalen,ayuda con la traducción,assistenza di un traduttore,通过翻译的帮助,hjelp med oversettelse,hjälp med översättning,hjælp til oversættelse,pomoc s překladem,pomoc w tłumaczeniu,βοήθεια με τη μετάφραση,翻訳のヘルプ,번역에 대한 도움말
+rank,პოზიცია,sıra,rang,Rang,classificação,rang,rango,rango,秩,rang,rang,rang,hodnost,ranga,τάξη,順位,계급
+venezuela,ვენესუელა,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,Venezuela,委内瑞拉,venezuela,venezuela,venezuela,Venezuela,Wenezuela,Βενεζουέλα,ベネズエラ,베네수엘라
+help with translation,თარგმნაში დახმარება,çeviriye yardım et,aide à la traduction,Hilfe bei der Übersetzung,ajuda com tradução,hulp bij het vertalen,ayuda con la traducción,assistenza di un traduttore,通过翻译的帮助,hjelp med oversettelse,hjälp med översättning,hjælp til oversættelse,pomoc s překladem,pomoc w tłumaczeniu,βοήθεια με τη μετάφραση,翻訳のヘルプ,번역에 대한 도움말
 from yesterday,სხვაობა წინა დღესთან,dünden,d'hier,von gestern,de ontem,van gisteren,de ayer,da ieri,从昨天,fra i går,från igår,fra i går,od včerejška,od wczoraj,από χθες,昨日から,어제
-yesterday,წინა დღის,dün,hier,gestern,ontem,gisteren,ayer,ieri,昨天,i går,i går,i går,včera,wczoraj,εχθές,昨日,어제
+yesterday,წინა დღის,fark,hier,gestern,ontem,gisteren,ayer,ieri,昨天,i går,i går,i går,včera,wczoraj,εχθές,昨日,어제
 Pause,პაუზა,Duraklat,Pause,Pause,Pausa,Pauze,Pausa,Pausa,暂停,Pause,Paus,Pause,Pauza,Pauza,Παύση,休止,중지
-play,დრო,zaman,démarrer,Zeit,Tempo,tijd,hora,play,时间,spille,spela,Spil,hrát si,odtwarzaj,παίζω,演奏する,플레이
-cases,ყველა შემთხვ.,vakalar,cas,Fälle,casos,gevallen,casos,casi,例,saker,fall,sager,případy,przypadki,περιπτώσεις,ケース,경우
-deaths,გარდაიცვალა,ölümler,morts,Todesfälle,mortes,sterfgevallen,muertes,morti,死亡,dødsfall,dödsfall,dødsfald,úmrtí,zgonów,θάνατοι,死亡,사망
-recovered,გამოჯანმრთელდა,geri kazanılan,rétablis,zurückgewonnen,recuperados,hersteld,recuperado,recuperato,恢复,gjenvunnet,utvanns,inddrives,zpět,wyzdrowień,ανάκτηση,回復,회복 된
+play,დრო,oynat,démarrer,Zeit,Tempo,tijd,hora,play,时间,spille,spela,Spil,hrát si,odtwarzaj,παίζω,演奏する,플레이
+cases,ყველა შემთხვ.,toplam vaka,cas,Fälle,casos,gevallen,casos,casi,例,saker,fall,sager,případy,przypadki,περιπτώσεις,ケース,경우
+deaths,გარდაიცვალა,ölüm,morts,Todesfälle,mortes,sterfgevallen,muertes,morti,死亡,dødsfall,dödsfall,dødsfald,úmrtí,zgonów,θάνατοι,死亡,사망
+recovered,გამოჯანმრთელდა,iyileşen,rétablis,zurückgewonnen,recuperados,hersteld,recuperado,recuperato,恢复,gjenvunnet,utvanns,inddrives,zpět,wyzdrowień,ανάκτηση,回復,회복 된
 death rate,სიკვდილიანობა,ölüm oranı,taux de mortalité,Todesrate,índice de mortalidade,sterftecijfer,índice de mortalidad,tasso di mortalità,死亡率,dødsrate,dödstal,døds rate,úmrtnost,śmiertelność,θνησιμότητα,死亡率,사망률
 corona virus,კორონა ვირუსი,korona virüsü,Coronavirus,Coronavirus,vírus corona,coronavirus,virus de la corona,corona virus,新冠病毒,coronavirus,coronavirus,corona-virus,KORONAVIRUS,koronawirus,κορωνοϊός,コロナウイルス,코로나 바이러스
-diff from,სხვაობა,dan fark,différence,diff aus,diff de,diff van,diff,diff da,从差异,diff fra,diff från,diff fra,diff od,Różnica względem,διαφορά από,からの差分,에서 DIFF
-diff,სხვაობა,diff,diff,diff,diferença,diff,diff,diff,DIFF,diff,diff,diff,diff,diff,diff,差分,DIFF
+diff from,სხვაობა,dün ile,différence,diff aus,diff de,diff van,diff,diff da,从差异,diff fra,diff från,diff fra,diff od,Różnica względem,διαφορά από,からの差分,에서 DIFF
+diff,სხვაობა,fark,diff,diff,diferença,diff,diff,diff,DIFF,diff,diff,diff,diff,diff,diff,差分,DIFF
 top,top,üst,top,oben,topo,top,parte superior,superiore,最佳,topp,topp,top,horní,Top,μπλουζα,上,상단
 world,მსოფლიო,Dünya,monde,Welt,mundo,wereld,mundo,mondo,世界,verden,värld,verden,svět,świat,κόσμος,世界,세계
 europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa,欧洲,Europa,Europa,Europa,Evropa,Europa,Ευρώπη,ヨーロッパ,유럽
@@ -23,13 +23,13 @@ north america,ჩრდ. ამერიკა,Kuzey Amerika,Amérique du Nord,N
 south america,სამხ. ამერიკა,Güney Amerika,Amérique du Sud,Südamerika,América do Sul,Zuid-Amerika,Sudamerica,Sud America,南美洲,Sør Amerika,Sydamerika,Sydamerika,Jižní Amerika,Ameryka Południowa,νότια Αμερική,南アメリカ,남아메리카
 australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia,澳大利亚,Australia,Australien,Australien,Austrálie,Australia,Αυστραλία,オーストラリア,호주
 new deaths,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe sterfgevallen,nuevas muertes,nuovi decessi,新的死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové úmrtí,nowe zgony,νέα θανάτους,新しい死亡,새로운 사망
-new fatalities,ახალი მსხვერპლი,yeni ölümlerin,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,nuevas víctimas mortales,nuovi decessi,新死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové osudovosti,nowe ofiary śmiertelne,νέα θανάτων,新しい死亡,새로운 사망자
-total fatalities,გარდაცვლილთა რაოდ.,toplam can kaybı,nombre total de décès,insgesamt Todesfälle,fatalidades totais,totaal doden,el total de muertes,incidenti mortali totali,总死亡人数,totale dødsfall,totala dödsfall,samlede dødsfald,celkový počet obětí,wszystkich ofiar śmiertelnych,συνολικά θανάτους,総死亡者,총 사망자 수
-total recovered,გამოჯანმრთელდა,toplam geri,total rétabli,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato,总回复,totalt gjenvunnet,totala utvunna,samlede genvundet,celková zotavil,wszystkich wyzdrowień,συνολική ανάκτηση,合計が回収しました,총 복구
-death rates (%),სიკვდილიანობა (%),ölüm oranları (%),taux de mortalité (%),Todesraten (%),as taxas de mortalidade (%),sterftecijfers (%),las tasas de mortalidad (%),i tassi di mortalità (%),死亡率（％）,dødelighet (%),dödstal (%),dødeligheden (%),úmrtnost (%),śmiertelność (%),τα ποσοστά θανάτου (%),死亡率（％）,사망률 (%)
-fatality rate (%),სიკვდილიანობა (%),Ölüm oranı (%),taux de mortalité (%),Sterblichkeitsrate (%),índice de fatalidade (%),sterftecijfer (%),tasa de fatalidad (%),tasso di mortalità (%),死亡率（％）,dødelighet (%),dödligheten (%),dødeligheden (%),úmrtnost (%),współczynnik śmiertelności (%),ποσοστό θνησιμότητας (%),死亡率（％）,치사율 (%)
-active cases,აქტიური შემთხვ.,aktif vakaları,cas actifs,aktive Fälle,casos ativos,actieve zaken,casos activos,casi attivi,活跃的情况下，,aktive saker,aktiva fall,aktive sager,aktivními případy,aktywnych przypadki,εκκρεμών υποθέσεων,アクティブの場合,활성화 된 경우
-existing cases,აქტიური შემთხვ.,varolan vakalar,cas existants,Altfälle,casos existentes,bestaande gevallen,casos existentes,casi esistenti,现有案例,eksisterende tilfeller,existerande fall,eksisterende sager,stávající případy,istniejące przypadki,υπάρχουσες υποθέσεις,既存の例,기존의 경우
+new fatalities,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,nuevas víctimas mortales,nuovi decessi,新死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové osudovosti,nowe ofiary śmiertelne,νέα θανάτων,新しい死亡,새로운 사망자
+total fatalities,გარდაცვლილთა რაოდ.,toplam ölüm,nombre total de décès,insgesamt Todesfälle,fatalidades totais,totaal doden,el total de muertes,incidenti mortali totali,总死亡人数,totale dødsfall,totala dödsfall,samlede dødsfald,celkový počet obětí,wszystkich ofiar śmiertelnych,συνολικά θανάτους,総死亡者,총 사망자 수
+total recovered,გამოჯანმრთელდა,toplam iyileşen,total rétabli,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato,总回复,totalt gjenvunnet,totala utvunna,samlede genvundet,celková zotavil,wszystkich wyzdrowień,συνολική ανάκτηση,合計が回収しました,총 복구
+death rates (%),სიკვდილიანობა (%),ölüm oranı (%),taux de mortalité (%),Todesraten (%),as taxas de mortalidade (%),sterftecijfers (%),las tasas de mortalidad (%),i tassi di mortalità (%),死亡率（％）,dødelighet (%),dödstal (%),dødeligheden (%),úmrtnost (%),śmiertelność (%),τα ποσοστά θανάτου (%),死亡率（％）,사망률 (%)
+fatality rate (%),სიკვდილიანობა (%),ölüm oranı (%),taux de mortalité (%),Sterblichkeitsrate (%),índice de fatalidade (%),sterftecijfer (%),tasa de fatalidad (%),tasso di mortalità (%),死亡率（％）,dødelighet (%),dödligheten (%),dødeligheden (%),úmrtnost (%),współczynnik śmiertelności (%),ποσοστό θνησιμότητας (%),死亡率（％）,치사율 (%)
+active cases,აქტიური შემთხვ.,aktif vaka,cas actifs,aktive Fälle,casos ativos,actieve zaken,casos activos,casi attivi,活跃的情况下，,aktive saker,aktiva fall,aktive sager,aktivními případy,aktywnych przypadki,εκκρεμών υποθέσεων,アクティブの場合,활성화 된 경우
+existing cases,აქტიური შემთხვ.,aktif vaka,cas existants,Altfälle,casos existentes,bestaande gevallen,casos existentes,casi esistenti,现有案例,eksisterende tilfeller,existerande fall,eksisterende sager,stávající případy,istniejące przypadki,υπάρχουσες υποθέσεις,既存の例,기존의 경우
 new cases,ახალი შემთხვ.,yeni vaka,nouveaux cas,Neuerkrankungen,novos casos,nieuwe gevallen,nuevos casos,nuovi casi,新病例,nye tilfeller,nya fall,nye tilfælde,nových případů,nowych przypadków,νέες περιπτώσεις,新しいケース,새로운 사례
 total cases,ყველა შემთხვ.,toplam vaka,total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali,总病例,totale tilfeller,totala antal fall,samlede sager,celkové případy,wszystkich przypadków,συνολικά περιπτώσεις,総症例,총 경우
 January,იანვარი,Ocak,janvier,Januar,janeiro,januari,enero,gennaio,一月,januar,januari,januar,leden,styczeń,Ιανουάριος,1月,일월
@@ -142,7 +142,7 @@ Philippines,ფილიპინები,Filipinler,Philippines,Philippinen,Fi
 Poland,პოლონეთი,Polonya,Pologne,Polen,Polônia,Polen,Polonia,Polonia,波兰,Polen,polen,Polen,Polsko,Polska,Πολωνία,ポーランド,폴란드
 Portugal,პორტუგალია,Portekiz,le Portugal,Portugal,Portugal,Portugal,Portugal,Portogallo,葡萄牙,Portugal,portugal,Portugal,Portugalsko,Portugalia,Πορτογαλία,ポルトガル,포르투갈
 Qatar,ყატარი,Katar,Qatar,Katar,Catar,Katar,Katar,Qatar,卡塔尔,Qatar,Qatar,Qatar,Katar,Katar,Κατάρ,カタール,카타르
-Reunion,რეუნიონი,birleşme,Réunion,Wiedervereinigung,Reunião,Bijeenkomst,Reunión,Riunione,团圆,Gjenforening,Återförening,Genforening,Shledání,Zjazd,Επανένωση,再会,재결합
+Reunion,რეუნიონი,Réunion,Réunion,Wiedervereinigung,Reunião,Bijeenkomst,Reunión,Riunione,团圆,Gjenforening,Återförening,Genforening,Shledání,Zjazd,Επανένωση,再会,재결합
 Romania,რუმინეთი,Romanya,Roumanie,Rumänien,Romênia,Roemenië,Rumania,Romania,罗马尼亚,Romania,rumänien,Rumænien,Rumunsko,Rumunia,Ρουμανία,ルーマニア,루마니아
 Russia,რუსეთი,Rusya,Russie,Russland,Rússia,Rusland,Rusia,Russia,俄国,Russland,ryssland,Rusland,Rusko,Rosja,Ρωσία,ロシア,러시아
 San Marino,სან მარინო,San Marino,Saint Marin,San Marino,San Marino,San Marino,San Marino,San Marino,圣马力诺,San Marino,San Marino,San Marino,San Marino,San Marino,Σαν Μαρίνο,サンマリノ,산 마리노
@@ -154,25 +154,25 @@ Slovakia,სლოვაკეთი,Slovakya,Slovaquie,Slowakei,Eslováquia,Slo
 Slovenia,სლოვენია,Slovenya,Slovénie,Slowenien,Eslovenia,Slovenië,Eslovenia,Slovenia,斯洛文尼亚,Slovenia,slovenien,Slovenien,Slovinsko,Słowenia,Σλοβενία,スロベニア,슬로베니아
 South Africa,სამხრეთ აფრიკა,Güney Afrika,Afrique du Sud,Südafrika,África do Sul,Zuid-Afrika,Sudáfrica,Sud Africa,南非,Sør-Afrika,Sydafrika,Sydafrika,Jižní Afrika,Afryka Południowa,Νότια Αφρική,南アフリカ,남아프리카
 South Korea,სამხრეთ კორეა,Güney Kore,Corée du Sud,Südkorea,Coreia do Sul,Zuid-Korea,Corea del Sur,Corea del Sud,韩国,Sør-Korea,Sydkorea,Sydkorea,Jižní Korea,Korea Południowa,Νότια Κορέα,韓国,대한민국
-Spain,ესპანეთი,ispanya,Espagne,Spanien,Espanha,Spanje,España,Spagna,西班牙,Spania,Spanien,Spanien,Španělsko,Hiszpania,Ισπανία,スペイン,스페인
+Spain,ესპანეთი,İspanya,Espagne,Spanien,Espanha,Spanje,España,Spagna,西班牙,Spania,Spanien,Spanien,Španělsko,Hiszpania,Ισπανία,スペイン,스페인
 Sri Lanka,შრი ლანკა,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,Sri Lanka,斯里兰卡,Sri Lanka,Sri Lanka,Sri Lanka,Srí Lanka,Sri Lanka,Σρι Λάνκα,スリランカ,스리랑카
 Sudan,სუდანი,Sudan,Soudan,Sudan,Sudão,Soedan,Sudán,Sudan,苏丹,Sudan,Sudan,Sudan,Sudan,Sudan,Σουδάν,スーダン,수단
 Sweden,შვედეთი,İsveç,Suède,Schweden,Suécia,Zweden,Suecia,Svezia,瑞典,Sverige,Sverige,Sverige,Švédsko,Szwecja,Σουηδία,スウェーデン,스웨덴
 Switzerland,შვეიცარია,İsviçre,Suisse,Schweiz,Suíça,Zwitserland,Suiza,Svizzera,瑞士,Sveits,schweiz,Schweiz,Švýcarsko,Szwajcaria,Ελβετία,スイス,스위스
 Taiwan,ტაივანი,Tayvan,Taïwan,Taiwan,Taiwan,Taiwan,Taiwán,Taiwan,台湾,Taiwan,Taiwan,Taiwan,Taiwan,Tajwan,Ταϊβάν,台湾,대만
 Thailand,ტაილანდი,Tayland,Thaïlande,Thailand,Tailândia,Thailand,Tailandia,Tailandia,泰国,Thailand,Thailand,Thailand,Thajsko,Tajlandia,Ταϊλάνδη,タイ,태국
-Togo,ტოგო,Gitmek,Aller,Gehen,Ir,Gaan,Ir,Andare,多哥,Å gå,Togo,At gå,Jít,Togo,Να πάω,トーゴ,토고
+Togo,ტოგო,Togo,Aller,Gehen,Ir,Gaan,Ir,Andare,多哥,Å gå,Togo,At gå,Jít,Togo,Να πάω,トーゴ,토고
 Tunisia,ტუნისი,Tunus,Tunisie,Tunesien,Tunísia,Tunesië,Túnez,Tunisia,突尼斯,Tunisia,tunisien,Tunesien,Tunisko,Tunezja,Τυνησία,チュニジア,튀니지
 Turkey,თურქეთი,Türkiye,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turkey,Turcja,Turkey,Turkey,Turkey
 UAE,არაბთა საემირობი,BAE,Émirats arabes unis,UAE,UAE,VAE,EAU,Emirati Arabi Uniti,阿联酋,UAE,UAE,UAE,UAE,ZEA,ΗΑΕ,UAE,아랍 에미리트
 UK,დიდი ბრიტანეთი,UK,Royaume-Uni,Vereinigtes Königreich,Reino Unido,UK,Reino Unido,UK,联合王国,Storbritannia,Storbritannien,UK,Spojené království,UK,Ηνωμένο Βασίλειο,英国,영국
-USA,აშშ,Amerika Birleşik Devletleri,Etats-Unis,USA,EUA,Verenigde Staten van Amerika,Estados Unidos,Stati Uniti d'America,美国,USA,USA,USA,Spojené státy americké,USA,ΗΠΑ,米国,미국
+USA,აშშ,ABD,Etats-Unis,USA,EUA,Verenigde Staten van Amerika,Estados Unidos,Stati Uniti d'America,美国,USA,USA,USA,Spojené státy americké,USA,ΗΠΑ,米国,미국
 Ukraine,უკრაინა,Ukrayna,Ukraine,Ukraine,Ucrânia,Oekraïne,Ucrania,Ucraina,乌克兰,Ukraina,Ukraina,Ukraine,Ukrajina,Ukraina,Ουκρανία,ウクライナ,우크라이나
 Vatican City,ვატიკანი,Vatikan Şehri,Cité du Vatican,Vatikanstadt,Cidade do Vaticano,Vaticaanstad,Ciudad del Vaticano,Città del Vaticano,梵蒂冈城,Vatikanet,Vatikanstaten,Vatikanet,Vatikán,Watykan,Η πόλη του Βατικανού,バチカン市,바티칸 시티
 Vietnam,ვიეტნამი,Vietnam,Viêt-Nam,Vietnam,Vietnã,Vietnam,Vietnam,Vietnam,越南,Vietnam,vietnam,Vietnam,Vietnam,Wietnam,Βιετνάμ,ベトナム,베트남
 Angola,ანგოლა,Angora,Angola,Angola,Angola,Angola,Angola,angola,安哥拉,Angola,Angola,Angola,Angola,Angola,Αγκόλα,アンゴラ,앙골라
 Antarctica,ანტარქტიკა,Antarktika,Antarctique,Antarktika,Antártica,Antarctica,Antártida,Antartide,南极洲,Antarktis,Antarktis,Antarktis,Antarctica,Antarktyda,Ανταρκτική,南極大陸,남극 대륙
-French Southern and Antarctic Lands,საფრანგეთის სამხრეთული და ანტარქტიდული ტერიტორია,Fransız Güney ve Antarktik,Français Terres Australes et Antarctiques,Französisch Süd- und Antarktisgebiete,Franceses do Sul e Antártica,Franse Zuidelijke en Antarctische gebieden,Meridional francés y Tierras antárticas,Terre australi e antartiche,法国南部和南极领地,Franske sørlige og antarktiske Lands,Franska sydliga och antarktiska Lands,Franske sydlige og antarktiske Lands,Francouzská jižní a antarktická území,Francuskie Terytoria Południowe i Antarktyczne,Γαλλικά νότια και ανταρκτικά εδάφη,フランスの南方・南極地域,프랑스 령 남부 및 남극
+French Southern and Antarctic Lands,საფრანგეთის სამხრეთული და ანტარქტიდული ტერიტორია,Fransız Güney ve Antarktika Toprakları,Français Terres Australes et Antarctiques,Französisch Süd- und Antarktisgebiete,Franceses do Sul e Antártica,Franse Zuidelijke en Antarctische gebieden,Meridional francés y Tierras antárticas,Terre australi e antartiche,法国南部和南极领地,Franske sørlige og antarktiske Lands,Franska sydliga och antarktiska Lands,Franske sydlige og antarktiske Lands,Francouzská jižní a antarktická území,Francuskie Terytoria Południowe i Antarktyczne,Γαλλικά νότια και ανταρκτικά εδάφη,フランスの南方・南極地域,프랑스 령 남부 및 남극
 Burundi,ბურუნდი,Burundi,Burundi,Burundi,Burundi,Boeroendi,Burundi,Burundi,布隆迪,Burundi,burundi,Burundi,Burundi,Burundi,Μπουρούντι,ブルンジ,부룬디
 Benin,ბენინი,Benin,Bénin,Benin,Benin,Benin,Benin,Benin,贝宁,Benin,Benin,Benin,Benin,Benin,Μπενίν,ベニン,베냉
 The Bahamas,ბაჰამები,Bahamalar,Les Bahamas,Die Bahamas,As Bahamas,De Bahamas,Las Bahamas,Le Bahamas,巴哈马,Bahamas,Bahamas,Bahamas,Bahamy,Bahamy,Οι Μπαχάμες,バハマ,바하마 제도
@@ -230,11 +230,11 @@ Central African Republic,ცენტ. აფრ. რესპ.,Orta Afrika Cumh
 Ghana,განა,Gana,Ghana,Ghana,Gana,Ghana,Ghana,Ghana,加纳,Ghana,ghana,Ghana,Ghana,Ghana,Γκάνα,ガーナ,가나
 Mauritania,მავრიტანია,Moritanya,Mauritanie,Mauretanien,Mauritânia,Mauritanië,Mauritania,Mauritania,毛里塔尼亚,Mauritania,Mauretanien,Mauretanien,Mauritánie,Mauretania,Μαυριτανία,モーリタニア,모리타니
 Kosovo,კოსოვო,Kosova,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,科索沃,Kosovo,Kosovo,Kosovo,Kosovo,Kosowo,Κοσσυφοπέδιο,コソボ,코소보
-rwanda,რუანდა,ruanda,Rwanda,rwanda,Ruanda,Rwanda,Ruanda,Ruanda,卢旺达,Rwanda,rwanda,rwanda,Rwanda,Rwanda,Ρουάντα,ルワンダ,르완다
-guatemala,გვატემალა,guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,危地马拉,guatemala,guatemala,guatemala,Guatemala,Gwatemala,Γουατεμάλα,グアテマラ,과테말라
+rwanda,რუანდა,Ruanda,Rwanda,rwanda,Ruanda,Rwanda,Ruanda,Ruanda,卢旺达,Rwanda,rwanda,rwanda,Rwanda,Rwanda,Ρουάντα,ルワンダ,르완다
+guatemala,გვატემალა,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,危地马拉,guatemala,guatemala,guatemala,Guatemala,Gwatemala,Γουατεμάλα,グアテマラ,과테말라
 uzbekistan,უზბეკეთი,Özbekistan,Uzbekistan,Usbekistan,Uzbequistão,Oezbekistan,Uzbekistán,Uzbekistan,乌兹别克斯坦,Usbekistan,uzbekistan,Usbekistan,uzbekistan,Uzbekistan,Ουζμπεκιστάν,ウズベキスタン,우즈베키스탄
-barbados,ბარბადოსი,barbados,barbade,Barbados,barbados,Barbados,barbados,barbados,巴巴多斯,barbados,barbados,barbados,Barbados,Barbados,barbados,バルバドス,바베이도스
-martinique,მარტინიკე,martinique,Martinique,Martinique,martinica,martinique,Martinica,MARTINICA,马提尼克,martinique,martinique,Martinique,martinique,Martynika,μαρτινίκα,マルティニーク,마르티니크
-seychelles,სეიშელი,seyşeller,les Seychelles,seychelles,seychelles,Seychellen,seychelles,Seychelles,塞舌尔,seychelles,Seychellerna,seychellerne,seychely,Seszele,Σεϋχέλλες,セイシェル,세이셸
+barbados,ბარბადოსი,Barbados,barbade,Barbados,barbados,Barbados,barbados,barbados,巴巴多斯,barbados,barbados,barbados,Barbados,Barbados,barbados,バルバドス,바베이도스
+martinique,მარტინიკე,Martinik,Martinique,Martinique,martinica,martinique,Martinica,MARTINICA,马提尼克,martinique,martinique,Martinique,martinique,Martynika,μαρτινίκα,マルティニーク,마르티니크
+seychelles,სეიშელი,Seyşeller,les Seychelles,seychelles,seychelles,Seychellen,seychelles,Seychelles,塞舌尔,seychelles,Seychellerna,seychellerne,seychely,Seszele,Σεϋχέλλες,セイシェル,세이셸
 trinidad and tobago,ტრინიდადი და ტობაგო,Trinidad ve Tobago,Trinité-et-Tobago,Trinidad und Tobago,Trinidad e Tobago,Trinidad en Tobago,Trinidad y Tobago,Trinidad e Tobago,特立尼达和多巴哥,Trinidad og Tobago,Trinidad och Tobago,Trinidad og Tobago,Trinidad a Tobago,Trynidad i Tobago,Τρινιντάντ και Τομπάγκο,トリニダード・トバゴ,트리니다드 토바고
 the gambia,გამბია,Gambiya,gambie,die gambia,Gâmbia,Gambia,Gambia,Gambia,冈比亚,Gambia,gambia,Gambia,Gambie,Gambia,η Γκάμπια,ガンビア,감비아
