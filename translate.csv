@@ -6,15 +6,15 @@ help with translation,თარგმნაში დახმარება,ç
 from yesterday,სხვაობა წინა დღესთან,dünden,d'hier,von gestern,de ontem,van gisteren,de ayer,da ieri,从昨天,fra i går,från igår,fra i går,od včerejška,od wczoraj,από χθες,昨日から,어제
 yesterday,წინა დღის,dün,hier,gestern,ontem,gisteren,ayer,ieri,昨天,i går,i går,i går,včera,wczoraj,εχθές,昨日,어제
 Pause,პაუზა,Duraklat,Pause,Pause,Pausa,Pauze,Pausa,Pausa,暂停,Pause,Paus,Pause,Pauza,Pauza,Παύση,休止,중지
-play,დრო,zaman,temps,Zeit,Tempo,tijd,hora,play,时间,spille,spela,Spil,hrát si,odtwarzaj,παίζω,演奏する,플레이
+play,დრო,zaman,démarrer,Zeit,Tempo,tijd,hora,play,时间,spille,spela,Spil,hrát si,odtwarzaj,παίζω,演奏する,플레이
 cases,ყველა შემთხვ.,vakalar,cas,Fälle,casos,gevallen,casos,casi,例,saker,fall,sager,případy,przypadki,περιπτώσεις,ケース,경우
 deaths,გარდაიცვალა,ölümler,morts,Todesfälle,mortes,sterfgevallen,muertes,morti,死亡,dødsfall,dödsfall,dødsfald,úmrtí,zgonów,θάνατοι,死亡,사망
-recovered,გამოჯანმრთელდა,geri kazanılan,rétabli,zurückgewonnen,recuperados,hersteld,recuperado,recuperato,恢复,gjenvunnet,utvanns,inddrives,zpět,wyzdrowień,ανάκτηση,回復,회복 된
+recovered,გამოჯანმრთელდა,geri kazanılan,rétablis,zurückgewonnen,recuperados,hersteld,recuperado,recuperato,恢复,gjenvunnet,utvanns,inddrives,zpět,wyzdrowień,ανάκτηση,回復,회복 된
 death rate,სიკვდილიანობა,ölüm oranı,taux de mortalité,Todesrate,índice de mortalidade,sterftecijfer,índice de mortalidad,tasso di mortalità,死亡率,dødsrate,dödstal,døds rate,úmrtnost,śmiertelność,θνησιμότητα,死亡率,사망률
-corona virus,კორონა ვირუსი,korona virüsü,virus corona,Coronavirus,vírus corona,coronavirus,virus de la corona,corona virus,新冠病毒,coronavirus,coronavirus,corona-virus,KORONAVIRUS,koronawirus,κορωνοϊός,コロナウイルス,코로나 바이러스
-diff from,სხვაობა,dan fark,difereça de,diff aus,diff de,diff van,diff,diff da,从差异,diff fra,diff från,diff fra,diff od,Różnica względem,διαφορά από,からの差分,에서 DIFF
+corona virus,კორონა ვირუსი,korona virüsü,Coronavirus,Coronavirus,vírus corona,coronavirus,virus de la corona,corona virus,新冠病毒,coronavirus,coronavirus,corona-virus,KORONAVIRUS,koronawirus,κορωνοϊός,コロナウイルス,코로나 바이러스
+diff from,სხვაობა,dan fark,différence,diff aus,diff de,diff van,diff,diff da,从差异,diff fra,diff från,diff fra,diff od,Różnica względem,διαφορά από,からの差分,에서 DIFF
 diff,სხვაობა,diff,diff,diff,diferença,diff,diff,diff,DIFF,diff,diff,diff,diff,diff,diff,差分,DIFF
-top,top,üst,Haut,oben,topo,top,parte superior,superiore,最佳,topp,topp,top,horní,Top,μπλουζα,上,상단
+top,top,üst,top,oben,topo,top,parte superior,superiore,最佳,topp,topp,top,horní,Top,μπλουζα,上,상단
 world,მსოფლიო,Dünya,monde,Welt,mundo,wereld,mundo,mondo,世界,verden,värld,verden,svět,świat,κόσμος,世界,세계
 europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa,欧洲,Europa,Europa,Europa,Evropa,Europa,Ευρώπη,ヨーロッパ,유럽
 asia,აზია,Asya,Asie,Asien,Ásia,Azië,Asia,Asia,亚洲,Asia,Asien,Asien,Asie,Azja,Ασία,アジア,아시아
@@ -25,13 +25,13 @@ australia,ავსტრალია,Avustralya,Australie,Australien,Austrália
 new deaths,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe sterfgevallen,nuevas muertes,nuovi decessi,新的死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové úmrtí,nowe zgony,νέα θανάτους,新しい死亡,새로운 사망
 new fatalities,ახალი მსხვერპლი,yeni ölümlerin,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,nuevas víctimas mortales,nuovi decessi,新死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové osudovosti,nowe ofiary śmiertelne,νέα θανάτων,新しい死亡,새로운 사망자
 total fatalities,გარდაცვლილთა რაოდ.,toplam can kaybı,nombre total de décès,insgesamt Todesfälle,fatalidades totais,totaal doden,el total de muertes,incidenti mortali totali,总死亡人数,totale dødsfall,totala dödsfall,samlede dødsfald,celkový počet obětí,wszystkich ofiar śmiertelnych,συνολικά θανάτους,総死亡者,총 사망자 수
-total recovered,გამოჯანმრთელდა,toplam geri,totale récupérée,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato,总回复,totalt gjenvunnet,totala utvunna,samlede genvundet,celková zotavil,wszystkich wyzdrowień,συνολική ανάκτηση,合計が回収しました,총 복구
+total recovered,გამოჯანმრთელდა,toplam geri,total rétabli,insgesamt zurückgewonnen,total recuperado,totaal hersteld,total recuperado,totale recuperato,总回复,totalt gjenvunnet,totala utvunna,samlede genvundet,celková zotavil,wszystkich wyzdrowień,συνολική ανάκτηση,合計が回収しました,총 복구
 death rates (%),სიკვდილიანობა (%),ölüm oranları (%),taux de mortalité (%),Todesraten (%),as taxas de mortalidade (%),sterftecijfers (%),las tasas de mortalidad (%),i tassi di mortalità (%),死亡率（％）,dødelighet (%),dödstal (%),dødeligheden (%),úmrtnost (%),śmiertelność (%),τα ποσοστά θανάτου (%),死亡率（％）,사망률 (%)
 fatality rate (%),სიკვდილიანობა (%),Ölüm oranı (%),taux de mortalité (%),Sterblichkeitsrate (%),índice de fatalidade (%),sterftecijfer (%),tasa de fatalidad (%),tasso di mortalità (%),死亡率（％）,dødelighet (%),dödligheten (%),dødeligheden (%),úmrtnost (%),współczynnik śmiertelności (%),ποσοστό θνησιμότητας (%),死亡率（％）,치사율 (%)
 active cases,აქტიური შემთხვ.,aktif vakaları,cas actifs,aktive Fälle,casos ativos,actieve zaken,casos activos,casi attivi,活跃的情况下，,aktive saker,aktiva fall,aktive sager,aktivními případy,aktywnych przypadki,εκκρεμών υποθέσεων,アクティブの場合,활성화 된 경우
-existing cases,აქტიური შემთხვ.,varolan vakalar,les cas existants,Altfälle,casos existentes,bestaande gevallen,casos existentes,casi esistenti,现有案例,eksisterende tilfeller,existerande fall,eksisterende sager,stávající případy,istniejące przypadki,υπάρχουσες υποθέσεις,既存の例,기존의 경우
+existing cases,აქტიური შემთხვ.,varolan vakalar,cas existants,Altfälle,casos existentes,bestaande gevallen,casos existentes,casi esistenti,现有案例,eksisterende tilfeller,existerande fall,eksisterende sager,stávající případy,istniejące przypadki,υπάρχουσες υποθέσεις,既存の例,기존의 경우
 new cases,ახალი შემთხვ.,yeni vaka,nouveaux cas,Neuerkrankungen,novos casos,nieuwe gevallen,nuevos casos,nuovi casi,新病例,nye tilfeller,nya fall,nye tilfælde,nových případů,nowych przypadków,νέες περιπτώσεις,新しいケース,새로운 사례
-total cases,ყველა შემთხვ.,toplam vaka,Le total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali,总病例,totale tilfeller,totala antal fall,samlede sager,celkové případy,wszystkich przypadków,συνολικά περιπτώσεις,総症例,총 경우
+total cases,ყველა შემთხვ.,toplam vaka,total des cas,Gesamt Fälle,total de casos,totaal gevallen,el total de casos,casi totali,总病例,totale tilfeller,totala antal fall,samlede sager,celkové případy,wszystkich przypadków,συνολικά περιπτώσεις,総症例,총 경우
 January,იანვარი,Ocak,janvier,Januar,janeiro,januari,enero,gennaio,一月,januar,januari,januar,leden,styczeń,Ιανουάριος,1月,일월
 February,თებერვალი,Şubat,février,Februar,fevereiro,februari,febrero,febbraio,二月,februar,februari,februar,Únor,luty,Φεβρουάριος,2月,이월
 March,მარტი,Mart,Mars,März,março,maart,marzo,marzo,三月,mars,Mars,marts,březen,marzec,Μάρτιος,行進,행진
