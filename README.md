@@ -10,6 +10,14 @@
 </a>
 
 
+<br/>
+
+
+Historical data comes from this repository - https://github.com/bumbeishvili/covid19-daily-data 
+
+Live data comes from WorldOmeters
+
+
 ## 1. Live data 
 Updated in every 15 m.
 
