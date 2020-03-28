@@ -15,13 +15,13 @@ corona virus,კორონა ვირუსი,korona virüsü,Coronavirus,C
 diff from,სხვაობა,dün ile,différence,diff aus,diff de,diff van,Diferencia,diff da,从差异,diff fra,diff från,diff fra,diff od,Różnica względem,διαφορά από,からの差分,에서 DIFF,razlika od,razlika od
 diff,სხვაობა,fark,diff,diff,diferença,diff,Diferencia,diff,DIFF,diff,diff,diff,diff,diff,diff,差分,DIFF,razlika,razlika
 top,top,üst,top,oben,topo,top,Top,superiore,最佳,topp,topp,top,horní,Top,μπλουζα,上,상단,vrh,vrh
-world,მსოფლიო,Dünya,monde,Welt,mundo,wereld,Mundo,mondo,世界,verden,värld,verden,svět,świat,κόσμος,世界,세계,svet,svijet
-europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa,欧洲,Europa,Europa,Europa,Evropa,Europa,Ευρώπη,ヨーロッパ,유럽,Evropa,Europa
-asia,აზია,Asya,Asie,Asien,Ásia,Azië,Asia,Asia,亚洲,Asia,Asien,Asien,Asie,Azja,Ασία,アジア,아시아,Azija,Azija
-africa,აფრიკა,Afrika,Afrique,Afrika,África,Afrika,África,Africa,非洲,Afrika,afrika,Afrika,Afrika,Afryka,Αφρική,アフリカ,아프리카,Afrika,Afrika
-north america,ჩრდ. ამერიკა,Kuzey Amerika,Amérique du Nord,Nordamerika,América do Norte,Noord Amerika,Norteamérica,Nord America,北美,Nord Amerika,Nordamerika,Nordamerika,Severní Amerika,Ameryka Północna,Βόρεια Αμερική,北米,북아메리카,Severna Amerika,Sjeverna Amerika
-south america,სამხ. ამერიკა,Güney Amerika,Amérique du Sud,Südamerika,América do Sul,Zuid-Amerika,Sudamerica,Sud America,南美洲,Sør Amerika,Sydamerika,Sydamerika,Jižní Amerika,Ameryka Południowa,νότια Αμερική,南アメリカ,남아메리카,Južna Amerika,Južna Amerika
-australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia,澳大利亚,Australia,Australien,Australien,Austrálie,Australia,Αυστραλία,オーストラリア,호주,Australija,Australija
+World,მსოფლიო,Dünya,monde,Welt,mundo,wereld,Mundo,mondo,世界,verden,värld,verden,svět,świat,κόσμος,世界,세계,svet,svijet
+Europe,ევროპა,Avrupa,L'Europe ,Europa,Europa,Europa,Europa,Europa,欧洲,Europa,Europa,Europa,Evropa,Europa,Ευρώπη,ヨーロッパ,유럽,Evropa,Europa
+Asia,აზია,Asya,Asie,Asien,Ásia,Azië,Asia,Asia,亚洲,Asia,Asien,Asien,Asie,Azja,Ασία,アジア,아시아,Azija,Azija
+Africa,აფრიკა,Afrika,Afrique,Afrika,África,Afrika,África,Africa,非洲,Afrika,afrika,Afrika,Afrika,Afryka,Αφρική,アフリカ,아프리카,Afrika,Afrika
+North America,ჩრდ. ამერიკა,Kuzey Amerika,Amérique du Nord,Nordamerika,América do Norte,Noord Amerika,Norteamérica,Nord America,北美,Nord Amerika,Nordamerika,Nordamerika,Severní Amerika,Ameryka Północna,Βόρεια Αμερική,北米,북아메리카,Severna Amerika,Sjeverna Amerika
+South America,სამხ. ამერიკა,Güney Amerika,Amérique du Sud,Südamerika,América do Sul,Zuid-Amerika,Sudamerica,Sud America,南美洲,Sør Amerika,Sydamerika,Sydamerika,Jižní Amerika,Ameryka Południowa,νότια Αμερική,南アメリカ,남아메리카,Južna Amerika,Južna Amerika
+Australia,ავსტრალია,Avustralya,Australie,Australien,Austrália,Australië,Australia,Australia,澳大利亚,Australia,Australien,Australien,Austrálie,Australia,Αυστραλία,オーストラリア,호주,Australija,Australija
 new deaths,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe sterfgevallen,Nuevos fallecimientos,nuovi decessi,新的死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové úmrtí,nowe zgony,νέα θανάτους,新しい死亡,새로운 사망,Novih smrti,novih smrti
 new fatalities,ახალი მსხვერპლი,yeni ölüm,nouveaux décès,neue Todesfälle,novas mortes,nieuwe dodelijke slachtoffers,Nuevos incidentes fatal,nuovi decessi,新死亡,nye dødsfall,nya dödsfall,nye dødsfald,nové osudovosti,nowe ofiary śmiertelne,νέα θανάτων,新しい死亡,새로운 사망자,Novih smrti,Novi smrtni slučajevi
 total fatalities,გარდაცვლილთა რაოდ.,toplam ölüm,nombre total de décès,Todesfälle insgesamt,fatalidades totais,totaal doden,Total de muertes,incidenti mortali totali,总死亡人数,totale dødsfall,totala dödsfall,samlede dødsfald,celkový počet obětí,wszystkich ofiar śmiertelnych,συνολικά θανάτους,総死亡者,총 사망자 수,Ukupno smrti,Ukupan broj žrtava
@@ -212,7 +212,7 @@ Sierra Leone,სიერა ლეონე,Sierra Leone,Sierra Leone,Sierra Le
 El Salvador,ელ-სალვადორი,El Salvador,Le Salvador,El Salvador,El Salvador,El Salvador,El Salvador,El Salvador,萨尔瓦多,El Salvador,El Salvador,El Salvador,El Salvador,Salwador,Ελ Σαλβαδόρ,エルサルバドル,엘살바도르,El Salvador,El Salvador
 Somaliland,სომალის მიწა,Somaliland,Somaliland,Somali,Somaliland,Somaliland,Somalilandia,Somaliland,索马里兰,Somaliland,Somali,Somaliland,Somaliland,Somaliland,Σομαλιλάνδη,ソマリランド,소 말릴 란드,Somaliland,Somaliland
 Somalia,სომალი,Somali,Somalie,Somalia,Somália,Somalië,Somalia,Somalia,索马里,Somalia,Somalia,Somalia,Somálsko,Somalia,Σομαλία,ソマリア,소말리아,Somalija,Somalija
-Swaziland,სვაზილენდი,Svaziland,Swaziland,Swasiland,Suazilândia,Swaziland,Swazilandia,Swaziland,斯威士兰,Swaziland,Swaziland,Swaziland,Svazijsko,Suazi,Σουαζιλάνδη,スワジランド,스와질랜드,Svazilend,Esvatini
+Eswatini,სვაზილენდი,Svaziland,Swaziland,Swasiland,Suazilândia,Swaziland,Swazilandia,Swaziland,斯威士兰,Swaziland,Swaziland,Swaziland,Svazijsko,Suazi,Σουαζιλάνδη,スワジランド,스와질랜드,Esvatini,Esvatini
 Syria,სირია,Suriye,Syrie,Syrien,Síria,Syrië,Siria,Siria,叙利亚,Syria,syrien,Syrien,Sýrie,Syria,Συρία,シリア,시리아,Sirija,Sirija
 Chad,ჩადი,Çad,Tchad,Tschad,Chade,Tsjaad,Chad,Chad,乍得,Tsjad,Chad,Tchad,Chad,Czad,Τσαντ,チャド,차드,Čad,Čad
 Tajikistan,ტაჯიკეთი,Tacikistan,Tadjikistan,Tadschikistan,Tadjiquistão,Tadzjikistan,Tayikistán,Tajikistan,塔吉克斯坦,Tadsjikistan,Tadzjikistan,Tadsjikistan,Tádžikistán,Tadżykistan,Τατζικιστάν,タジキスタン,타지키스탄,Tadžikistan,Tadžikistan
@@ -230,11 +230,11 @@ Central African Republic,ცენტ. აფრ. რესპ.,Orta Afrika Cumh
 Ghana,განა,Gana,Ghana,Ghana,Gana,Ghana,Ghana,Ghana,加纳,Ghana,ghana,Ghana,Ghana,Ghana,Γκάνα,ガーナ,가나,Dana,Gana
 Mauritania,მავრიტანია,Moritanya,Mauritanie,Mauretanien,Mauritânia,Mauritanië,Mauritania,Mauritania,毛里塔尼亚,Mauritania,Mauretanien,Mauretanien,Mauritánie,Mauretania,Μαυριτανία,モーリタニア,모리타니,Mauritanija,Mauritanija
 Kosovo,კოსოვო,Kosova,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,Kosovo,科索沃,Kosovo,Kosovo,Kosovo,Kosovo,Kosowo,Κοσσυφοπέδιο,コソボ,코소보,Kosovo i Metohija,Kosovo
-rwanda,რუანდა,Ruanda,Rwanda,rwanda,Ruanda,Rwanda,Ruanda,Ruanda,卢旺达,Rwanda,rwanda,rwanda,Rwanda,Rwanda,Ρουάντα,ルワンダ,르완다,Ruanda,Ruanda
-guatemala,გვატემალა,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,危地马拉,guatemala,guatemala,guatemala,Guatemala,Gwatemala,Γουατεμάλα,グアテマラ,과테말라,Gvatemala,Gvatemala
-uzbekistan,უზბეკეთი,Özbekistan,Uzbekistan,Usbekistan,Uzbequistão,Oezbekistan,Uzbekistán,Uzbekistan,乌兹别克斯坦,Usbekistan,uzbekistan,Usbekistan,uzbekistan,Uzbekistan,Ουζμπεκιστάν,ウズベキスタン,우즈베키스탄,Uzbekistan,Uzbekistan
-barbados,ბარბადოსი,Barbados,barbade,Barbados,barbados,Barbados,barbados,barbados,巴巴多斯,barbados,barbados,barbados,Barbados,Barbados,barbados,バルバドス,바베이도스,Barbados,Barbados
-martinique,მარტინიკე,Martinik,Martinique,Martinique,martinica,martinique,Martinica,MARTINICA,马提尼克,martinique,martinique,Martinique,martinique,Martynika,μαρτινίκα,マルティニーク,마르티니크,Martinik,Martinique
-seychelles,სეიშელი,Seyşeller,les Seychelles,seychelles,seychelles,Seychellen,Seychelles,Seychelles,塞舌尔,seychelles,Seychellerna,seychellerne,seychely,Seszele,Σεϋχέλλες,セイシェル,세이셸,Sejšeli,Sejšeli
-trinidad and tobago,ტრინიდადი და ტობაგო,Trinidad ve Tobago,Trinité-et-Tobago,Trinidad und Tobago,Trinidad e Tobago,Trinidad en Tobago,Trinidad y Tobago,Trinidad e Tobago,特立尼达和多巴哥,Trinidad og Tobago,Trinidad och Tobago,Trinidad og Tobago,Trinidad a Tobago,Trynidad i Tobago,Τρινιντάντ και Τομπάγκο,トリニダード・トバゴ,트리니다드 토바고,Trinidad i Tobago,Trinidad i Tobago
-the gambia,გამბია,Gambiya,gambie,die gambia,Gâmbia,Gambia,Gambia,Gambia,冈比亚,Gambia,gambia,Gambia,Gambie,Gambia,η Γκάμπια,ガンビア,감비아,Gambija,Gambija
+Rwanda,რუანდა,Ruanda,Rwanda,rwanda,Ruanda,Rwanda,Ruanda,Ruanda,卢旺达,Rwanda,rwanda,rwanda,Rwanda,Rwanda,Ρουάντα,ルワンダ,르완다,Ruanda,Ruanda
+Guatemala,გვატემალა,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,Guatemala,危地马拉,guatemala,guatemala,guatemala,Guatemala,Gwatemala,Γουατεμάλα,グアテマラ,과테말라,Gvatemala,Gvatemala
+Uzbekistan,უზბეკეთი,Özbekistan,Uzbekistan,Usbekistan,Uzbequistão,Oezbekistan,Uzbekistán,Uzbekistan,乌兹别克斯坦,Usbekistan,uzbekistan,Usbekistan,uzbekistan,Uzbekistan,Ουζμπεκιστάν,ウズベキスタン,우즈베키스탄,Uzbekistan,Uzbekistan
+Barbados,ბარბადოსი,Barbados,barbade,Barbados,barbados,Barbados,barbados,barbados,巴巴多斯,barbados,barbados,barbados,Barbados,Barbados,barbados,バルバドス,바베이도스,Barbados,Barbados
+Martinique,მარტინიკე,Martinik,Martinique,Martinique,martinica,martinique,Martinica,MARTINICA,马提尼克,martinique,martinique,Martinique,martinique,Martynika,μαρτινίκα,マルティニーク,마르티니크,Martinik,Martinique
+Seychelles,სეიშელი,Seyşeller,les Seychelles,seychelles,seychelles,Seychellen,Seychelles,Seychelles,塞舌尔,seychelles,Seychellerna,seychellerne,seychely,Seszele,Σεϋχέλλες,セイシェル,세이셸,Sejšeli,Sejšeli
+Trinidad and tobago,ტრინიდადი და ტობაგო,Trinidad ve Tobago,Trinité-et-Tobago,Trinidad und Tobago,Trinidad e Tobago,Trinidad en Tobago,Trinidad y Tobago,Trinidad e Tobago,特立尼达和多巴哥,Trinidad og Tobago,Trinidad och Tobago,Trinidad og Tobago,Trinidad a Tobago,Trynidad i Tobago,Τρινιντάντ και Τομπάγκο,トリニダード・トバゴ,트리니다드 토바고,Trinidad i Tobago,Trinidad i Tobago
+The Gambia,გამბია,Gambiya,gambie,die gambia,Gâmbia,Gambia,Gambia,Gambia,冈比亚,Gambia,gambia,Gambia,Gambie,Gambia,η Γκάμπια,ガンビア,감비아,Gambija,Gambija
