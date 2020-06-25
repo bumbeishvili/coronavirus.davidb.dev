@@ -70,3 +70,11 @@ Scroll  sidebar to see descendingly ordered measure values.
 ## 9 . Mobile friendly
 
 ![](https://user-images.githubusercontent.com/6873202/77318444-8376b080-6d26-11ea-87f1-0b0b447b2252.gif)
+
+
+
+## Author
+ [David   B (twitter)](https://twitter.com/dbumbeishvili)  
+ [David   B (linkedin)](https://www.linkedin.com/in/bumbeishvili/)  
+
+I am available for freelance data visualization work. Please [contact me](https://davidb.dev/contact) in case you'd like me to help you with my experience and expertise
