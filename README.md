@@ -25,7 +25,7 @@ Updated in every 15 m.
 
 ## 2. User Location driven data content
 
-Platform is available for more than 20 language. Language is automatically determined from ip
+Platform is available for more than 20 languages. Language is automatically determined from ip
 
 Each user sees customized language and content for it's country 
 
