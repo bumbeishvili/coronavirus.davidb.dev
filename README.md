@@ -1,3 +1,6 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+
 ### Help with translations
 
 [translation file](https://github.com/bumbeishvili/coronavirus.davidb.dev/blob/master/translate.csv)
